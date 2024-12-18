@@ -1,0 +1,1341 @@
+age,sex,bmi,children,smoker,region,charges,policy_number,comments
+19,  female  ,27.9,0,YES, southwest ,16884.924,OXVEXZRG,Needs follow-up
+18,  male  ,33.77,1,NO, southeast ,1725.5523,SV404VGH,Check payment history
+28,  male  ,33.0,3,no, southeast , $4449.462,49AZESV0,
+33,  male  ,22.705,0,no, northwest , $21984.47061,HOI5LI0C,Smoking habits unclear
+32,  male  ,28.88,0,NO, northwest , $3866.8552,QB72JZ5L,Family history of diabetes
+31,  female  ,25.74,0,NO, southeast , $3756.6216,SI6LLOJV,Needs follow-up
+46,  female  ,33.44,1,NO, southeast ,8240.5896,S1NJ63Y6,Check payment history
+37,  female  ,27.74,3,no, northwest ,7281.5056,XU463AKN,
+37,  male  ,29.83,2,NO, northeast , $6406.4107,7AS2ZDKZ,Smoking habits unclear
+60,  female  ,25.84,0,no, northwest , $28923.13692,QHM80MEC,Family history of diabetes
+25,  male  ,26.22,0,NO, northeast , $2721.3208,S42IDMKK,Needs follow-up
+62,  female  ,26.29,0,YES, southeast , $27808.7251,QU78XJVY,Check payment history
+23,  male  ,34.4,0,no, southwest , $1826.843,OEBZNXG6,
+56,  female  ,39.82,0,no, southeast ,11090.7178,UDPT2SO0,Smoking habits unclear
+27,  male  ,42.13,0,YES, southeast ,39611.7577,WC5WFGQH,Family history of diabetes
+19,  male  ,24.6,1,no, southwest , $1837.237,TWUXQ9Y5,Needs follow-up
+52,  female  ,30.78,1,no, northeast , $10797.3362,NCCI7QAK,Check payment history
+23,  male  ,23.845,0,NO, northeast ,2395.17155,OJN8C8EL,
+56,  male  ,40.3,0,NO, southwest , $10602.385,0J0WVSVU,Smoking habits unclear
+30,  male  ,35.3,0,yes, southwest , $36837.467,6IS68X7Y,Family history of diabetes
+60,  female  ,36.005,0,no, northeast , $13228.84695,H1AS3QVL,Needs follow-up
+30,  female  ,32.4,1,NO, southwest , $4149.736,E8T9VAEA,Check payment history
+18,  male  ,34.1,0,NO, southeast , $1137.011,T067XQ3B,
+34,  female  ,31.92,1,yes, northeast , $37701.8768,YUUB4XF0,Smoking habits unclear
+37,  male  ,28.025,2,NO, northwest , $6203.90175,OSREDSXU,Family history of diabetes
+59,  female  ,27.72,3,no, southeast , $14001.1338,2G1SSWRO,Needs follow-up
+63,  female  ,23.085,0,NO, northeast ,14451.83515,VRFPC37C,Check payment history
+55,  female  ,32.775,2,NO, northwest ,12268.63225,S8G3BTKN,
+23,  male  ,17.385,1,NO, northwest ,2775.19215,MB67EMG4,Smoking habits unclear
+31,  male  ,36.3,2,YES, southwest ,38711.0,SU8ZHAYP,Family history of diabetes
+22,  male  ,35.6,0,YES, southwest , $35585.576,6DGREQOZ,Needs follow-up
+18,  female  ,26.315,0,no, northeast , $2198.18985,Z3MOR23O,Check payment history
+19,  female  ,28.6,5,no, southwest ,4687.797,DH19NDRG,
+63,  male  ,28.31,0,NO, northwest ,13770.0979,7USGDBOL,Smoking habits unclear
+28,  male  ,36.4,1,yes, southwest , $51194.55914,8LGEFL3M,Family history of diabetes
+19,  male  ,20.425,0,NO, northwest ,1625.43375,WMSF3W13,Needs follow-up
+62,  female  ,32.965,3,no, northwest ,15612.19335,SLWTYROH,Check payment history
+26,  male  ,20.8,0,NO, southwest , $2302.3,836J4A5D,
+35,  male  ,36.67,1,yes, northeast , $39774.2763,8I85U6B5,Smoking habits unclear
+60,  male  ,39.9,0,yes, southwest , $48173.361,W6ELP945,Family history of diabetes
+24,  female  ,26.6,0,NO, northeast , $3046.062,ROB6T9OH,Needs follow-up
+31,  female  ,36.63,2,no, southeast ,4949.7587,NQ0EVX5D,Check payment history
+41,  male  ,21.78,1,no, southeast ,6272.4772,N2RBPIZI,
+37,  female  ,30.8,2,NO, southeast ,6313.759,Q3C99V59,Smoking habits unclear
+38,  male  ,37.05,1,NO, northeast , $6079.6715,Q1OV1MDL,Family history of diabetes
+55,  male  ,37.3,0,no, southwest ,20630.28351,G8X634KT,Needs follow-up
+18,  female  ,38.665,2,NO, northeast , $3393.35635,ODX07CQO,Check payment history
+28,  female  ,34.77,0,NO, northwest ,3556.9223,60WAO9J3,
+60,  female  ,24.53,0,no, southeast ,12629.8967,YAA6BJKS,Smoking habits unclear
+36,  male  ,35.2,1,YES, southeast ,38709.176,90IVRGHA,Family history of diabetes
+18,  female  ,35.625,0,NO, northeast ,2211.13075,SJC0YMGI,Needs follow-up
+21,  female  ,33.63,2,NO, northwest ,3579.8287,RDQSPAUV,Check payment history
+48,  male  ,28.0,1,yes, southwest ,23568.272,BH7C377P,
+36,  male  ,34.43,0,yes, southeast ,37742.5757,99L6O0RB,Smoking habits unclear
+40,  female  ,28.69,3,NO, northwest ,8059.6791,YVSIGRNS,Family history of diabetes
+58,  male  ,36.955,2,YES, northwest , $47496.49445,E1SA31TQ,Needs follow-up
+58,  female  ,31.825,2,no, northeast , $13607.36875,YZV01AJC,Check payment history
+18,  male  ,31.68,2,yes, southeast ,34303.1672,FXV3O6DM,
+53,  female  ,22.88,1,yes, southeast ,23244.7902,BXN4SFE8,Smoking habits unclear
+34,  female  ,37.335,2,no, northwest ,5989.52365,KLHGU7ZV,Family history of diabetes
+43,  male  ,27.36,3,NO, northeast , $8606.2174,FRUB3VUM,Needs follow-up
+25,  male  ,33.66,4,NO, southeast ,4504.6624,X65ABADP,Check payment history
+64,  male  ,24.7,1,no, northwest ,30166.61817,IR9IL0XN,
+28,  female  ,25.935,1,no, northwest , $4133.64165,UI5HZ2TM,Smoking habits unclear
+20,  female  ,22.42,0,YES, northwest , $14711.7438,164AV4ZX,Family history of diabetes
+19,  female  ,28.9,0,NO, southwest , $1743.214,DIBTJY9R,Needs follow-up
+61,  female  ,39.1,2,NO, southwest ,14235.072,S9H88T7G,Check payment history
+40,  male  ,26.315,1,no, northwest , $6389.37785,95E1TF3D,
+40,  female  ,36.19,0,NO, southeast ,5920.1041,RJW67P9I,Smoking habits unclear
+28,  male  ,23.98,3,yes, southeast , $17663.1442,BUB3V1WG,Family history of diabetes
+27,  female  ,24.75,0,YES, southeast , $16577.7795,ULTYEUYN,Needs follow-up
+31,  male  ,28.5,5,no, northeast , $6799.458,I8HP1K1U,Check payment history
+53,  female  ,28.1,3,NO, southwest , $11741.726,PSAGJQ7O,
+58,  male  ,32.01,1,no, southeast , $11946.6259,D76XGJKD,Smoking habits unclear
+44,  male  ,27.4,2,no, southwest ,7726.854,6D61HJXF,Family history of diabetes
+57,  male  ,34.01,0,no, northwest ,11356.6609,UA20UZ0K,Needs follow-up
+29,  female  ,29.59,1,no, southeast , $3947.4131,OZIKDPTD,Check payment history
+21,  male  ,35.53,0,no, southeast ,1532.4697,C2PH7JDX,
+22,  female  ,39.805,0,NO, northeast , $2755.02095,NVKUIC38,Smoking habits unclear
+41,  female  ,32.965,0,NO, northwest , $6571.02435,XF2CQDES,Family history of diabetes
+31,  male  ,26.885,1,NO, northeast , $4441.21315,7622LPR1,Needs follow-up
+45,  female  ,38.285,0,NO, northeast ,7935.29115,48NF0J5V,Check payment history
+22,  male  ,37.62,1,YES, southeast ,37165.1638,4ITT8SRV,
+48,  female  ,41.23,4,NO, northwest ,11033.6617,WZ7IGS8W,Smoking habits unclear
+37,  female  ,34.8,2,yes, southwest ,39836.519,1FZKAKDH,Family history of diabetes
+45,  male  ,22.895,2,YES, northwest , $21098.55405,14TTB57H,Needs follow-up
+57,  female  ,31.16,0,yes, northwest ,43578.9394,H5VJEV0J,Check payment history
+56,  female  ,27.2,0,no, southwest ,11073.176,A9P7GG56,
+46,  female  ,27.74,0,NO, northwest , $8026.6666,C8KOWD9M,Smoking habits unclear
+55,  female  ,26.98,0,no, northwest ,11082.5772,80IFV2FI,Family history of diabetes
+21,  female  ,39.49,0,NO, southeast , $2026.9741,Y03OGKFY,Needs follow-up
+53,  female  ,24.795,1,NO, northwest , $10942.13205,PAJU5YC1,Check payment history
+59,  male  ,29.83,3,YES, northeast ,30184.9367,158MZ43M,
+35,  male  ,34.77,2,no, northwest ,5729.0053,7XCEMSSD,Smoking habits unclear
+64,  female  ,31.3,2,YES, southwest ,47291.055,C2AX5ROJ,Family history of diabetes
+28,  female  ,37.62,1,NO, southeast , $3766.8838,ONXHQD26,Needs follow-up
+54,  female  ,30.8,3,no, southwest ,12105.32,SU4KMKOZ,Check payment history
+55,  male  ,38.28,0,NO, southeast ,10226.2842,MPJA0J2W,
+56,  male  ,19.95,0,YES, northeast , $22412.6485,56HUBKOM,Smoking habits unclear
+38,  male  ,19.3,0,YES, southwest , $15820.699,LZRVJW8Z,Family history of diabetes
+41,  female  ,31.6,0,no, southwest , $6186.127,9V6CXS1K,Needs follow-up
+30,  male  ,25.46,0,no, northeast ,3645.0894,RYWBC7GT,Check payment history
+18,  female  ,30.115,0,no, northeast ,21344.8467,9JEFG6PL,
+61,  female  ,29.92,3,YES, southeast ,30942.1918,FWIFQJBM,Smoking habits unclear
+34,  female  ,27.5,1,no, southwest , $5003.853,CQFI57ME,Family history of diabetes
+20,  male  ,28.025,1,yes, northwest ,17560.37975,G8KTHD9R,Needs follow-up
+19,  female  ,28.4,1,no, southwest ,2331.519,5R1JV04C,Check payment history
+26,  male  ,30.875,2,no, northwest , $3877.30425,2046ADW9,
+29,  male  ,27.94,0,NO, southeast , $2867.1196,DUZPVCYZ,Smoking habits unclear
+63,  male  ,35.09,0,YES, southeast ,47055.5321,YJTB89UR,Family history of diabetes
+54,  male  ,33.63,1,NO, northwest , $10825.2537,5441YVMH,Needs follow-up
+55,  female  ,29.7,2,no, southwest ,11881.358,4GUICB50,Check payment history
+37,  male  ,30.8,0,NO, southwest , $4646.759,Z688LPU9,
+21,  female  ,35.72,0,NO, northwest ,2404.7338,WB24ZJUM,Smoking habits unclear
+52,  male  ,32.205,3,no, northeast , $11488.31695,8K8BPN4O,Family history of diabetes
+60,  male  ,28.595,0,NO, northeast ,30259.99556,DSRQ4N41,Needs follow-up
+58,  male  ,49.06,0,NO, southeast , $11381.3254,WDMKTV02,Check payment history
+29,  female  ,27.94,1,yes, southeast , $19107.7796,EVVJWE12,
+49,  female  ,27.17,0,no, southeast , $8601.3293,I35MC8KG,Smoking habits unclear
+37,  female  ,23.37,2,no, northwest , $6686.4313,CMPQJB52,Family history of diabetes
+44,  male  ,37.1,2,no, southwest ,7740.337,8Q9XRU3L,Needs follow-up
+18,  male  ,23.75,0,NO, northeast , $1705.6245,X5T782HM,Check payment history
+20,  female  ,28.975,0,NO, northwest ,2257.47525,V27ZRC6G,
+44,  male  ,31.35,1,yes, northeast ,39556.4945,FEJLFR7K,Smoking habits unclear
+47,  female  ,33.915,3,no, northwest , $10115.00885,V1BGRVC3,Family history of diabetes
+26,  female  ,28.785,0,NO, northeast ,3385.39915,LE9C2MMM,Needs follow-up
+19,  female  ,28.3,0,yes, southwest ,17081.08,TLFCRWU3,Check payment history
+52,  female  ,37.4,0,NO, southwest ,9634.538,KMV5HXW8,
+32,  female  ,17.765,2,yes, northwest , $32734.1863,VXS1DWSP,Smoking habits unclear
+38,  male  ,34.7,2,NO, southwest ,6082.405,KKGIE191,Family history of diabetes
+59,  female  ,26.505,0,no, northeast , $12815.44495,3N5O6GTG,Needs follow-up
+61,  female  ,22.04,0,no, northeast ,13616.3586,C2BEUOI4,Check payment history
+53,  female  ,35.9,2,no, southwest ,11163.568,F3SMKNKW,
+19,  male  ,25.555,0,NO, northwest ,1632.56445,ZIOP0SGK,Smoking habits unclear
+20,  female  ,28.785,0,no, northeast , $2457.21115,G62ZNHUB,Family history of diabetes
+22,  female  ,28.05,0,NO, southeast ,2155.6815,AMHUNYU8,Needs follow-up
+19,  male  ,34.1,0,NO, southwest , $1261.442,S14XWWZK,Check payment history
+22,  male  ,25.175,0,no, northwest , $2045.68525,BL6PKGCB,
+54,  female  ,31.9,3,NO, southeast , $27322.73386,ZMX7YV4W,Smoking habits unclear
+22,  female  ,36.0,0,NO, southwest , $2166.732,K9LDY7H8,Family history of diabetes
+34,  male  ,22.42,2,NO, northeast ,27375.90478,K47G2I0U,Needs follow-up
+26,  male  ,32.49,1,no, northeast , $3490.5491,YZX790W8,Check payment history
+34,  male  ,25.3,2,YES, southeast ,18972.495,79NJF75E,
+29,  male  ,29.735,2,NO, northwest , $18157.876,2LEBR6D0,Smoking habits unclear
+30,  male  ,28.69,3,yes, northwest , $20745.9891,6TXKYYAN,Family history of diabetes
+29,  female  ,38.83,3,NO, southeast , $5138.2567,6T03Z7EA,Needs follow-up
+46,  male  ,30.495,3,YES, northwest ,40720.55105,V9XGJ3ML,Check payment history
+51,  female  ,37.73,1,NO, southeast , $9877.6077,7OW4AOPM,
+53,  female  ,37.43,1,NO, northwest , $10959.6947,SZTOV7QK,Smoking habits unclear
+19,  male  ,28.4,1,NO, southwest , $1842.519,JZ7SPK19,Family history of diabetes
+35,  male  ,24.13,1,NO, northwest ,5125.2157,Y2MP8EQ9,Needs follow-up
+48,  male  ,29.7,0,no, southeast , $7789.635,FWR8T4TI,Check payment history
+32,  female  ,37.145,3,no, northeast ,6334.34355,7I36BKOJ,
+42,  female  ,23.37,0,YES, northeast ,19964.7463,E2J8EQMR,Smoking habits unclear
+40,  female  ,25.46,1,no, northeast , $7077.1894,1U74L6UY,Family history of diabetes
+44,  male  ,39.52,0,no, northwest , $6948.7008,3VZSMFWW,Needs follow-up
+48,  male  ,24.42,0,yes, southeast ,21223.6758,G91OFVIQ,Check payment history
+18,  male  ,25.175,0,yes, northeast , $15518.18025,XH18EDVY,
+30,  male  ,35.53,0,yes, southeast , $36950.2567,EE7DAU9G,Smoking habits unclear
+50,  female  ,27.83,3,no, southeast ,19749.38338,UA99T2PZ,Family history of diabetes
+42,  female  ,26.6,0,YES, northwest , $21348.706,I9I927L0,Needs follow-up
+18,  female  ,36.85,0,YES, southeast ,36149.4835,R65GWMJE,Check payment history
+54,  male  ,39.6,1,no, southwest ,10450.552,WWZBQLCP,
+32,  female  ,29.8,2,NO, southwest ,5152.134,I28I10AM,Smoking habits unclear
+37,  male  ,29.64,0,no, northwest ,5028.1466,WGOVFB2I,Family history of diabetes
+47,  male  ,28.215,4,NO, northeast , $10407.08585,EXFZP7IS,Needs follow-up
+20,  female  ,37.0,5,NO, southwest ,4830.63,0QMHY59C,Check payment history
+32,  female  ,33.155,3,no, northwest ,6128.79745,H3N7WWX3,
+19,  female  ,31.825,1,NO, northwest , $2719.27975,X5BZQEV0,Smoking habits unclear
+27,  male  ,18.905,3,NO, northeast , $4827.90495,DXBR33NO,Family history of diabetes
+63,  male  ,41.47,0,NO, southeast ,13405.3903,V4I7W8UB,Needs follow-up
+49,  male  ,30.3,0,no, southwest , $8116.68,PW8PDZWP,Check payment history
+18,  male  ,15.96,0,no, northeast ,1694.7964,OH6D6A6L,
+35,  female  ,34.8,1,NO, southwest ,5246.047,IN918DGR,Smoking habits unclear
+24,  female  ,33.345,0,NO, northwest , $2855.43755,GW22ZWG7,Family history of diabetes
+63,  female  ,37.7,0,YES, southwest , $48824.45,0T4KTJX8,Needs follow-up
+38,  male  ,27.835,2,no, northwest , $6455.86265,91GQYU5R,Check payment history
+54,  male  ,29.2,1,no, southwest ,10436.096,5FBQQ5DT,
+46,  female  ,28.9,2,no, southwest ,8823.279,8L1LSKQ1,Smoking habits unclear
+41,  female  ,33.155,3,no, northeast ,8538.28845,ZU4U8G70,Family history of diabetes
+58,  male  ,28.595,0,NO, northwest , $11735.87905,U7D87HA9,Needs follow-up
+18,  female  ,38.28,0,NO, southeast ,1631.8212,JX43NUG8,Check payment history
+22,  male  ,19.95,3,no, northeast , $4005.4225,89ZJ1RJI,
+44,  female  ,26.41,0,NO, northwest , $7419.4779,RCHY7TX0,Smoking habits unclear
+44,  male  ,30.69,2,NO, southeast ,7731.4271,3MBTQK9O,Family history of diabetes
+36,  male  ,41.895,3,yes, northeast , $43753.33705,BIQY8D6R,Needs follow-up
+26,  female  ,29.92,2,NO, southeast ,3981.9768,YH3CW68O,Check payment history
+30,  female  ,30.9,3,NO, southwest , $5325.651,1AF5PEEK,
+41,  female  ,32.2,1,NO, southwest , $6775.961,CWPMIMVX,Smoking habits unclear
+29,  female  ,32.11,2,no, northwest , $4922.9159,AFC8SKV8,Family history of diabetes
+61,  male  ,31.57,0,NO, southeast ,12557.6053,ILOPL6FG,Needs follow-up
+36,  female  ,26.2,0,NO, southwest , $4883.866,C2SXF8U5,Check payment history
+25,  male  ,25.74,0,no, southeast , $2137.6536,930UV3G6,
+56,  female  ,26.6,1,NO, northwest ,12044.342,VG5PO68P,Smoking habits unclear
+18,  male  ,34.43,0,NO, southeast , $1137.4697,5YNB1P9I,Family history of diabetes
+19,  male  ,30.59,0,no, northwest ,1639.5631,Q1LBH64A,Needs follow-up
+39,  female  ,32.8,0,NO, southwest , $5649.715,228PCXNQ,Check payment history
+45,  female  ,28.6,2,no, southeast , $8516.829,F2BULVV8,
+51,  female  ,18.05,0,NO, northwest ,9644.2525,H3YX7N4E,Smoking habits unclear
+64,  female  ,39.33,0,no, northeast ,14901.5167,ZWBNGNVK,Family history of diabetes
+19,  female  ,32.11,0,NO, northwest ,2130.6759,5EQN5VF2,Needs follow-up
+48,  female  ,32.23,1,NO, southeast , $8871.1517,CL1JRAFG,Check payment history
+60,  female  ,24.035,0,no, northwest , $13012.20865,KVEPZ2WK,
+27,  female  ,36.08,0,YES, southeast , $37133.8982,PQYHEOAJ,Smoking habits unclear
+46,  male  ,22.3,0,NO, southwest , $7147.105,HR81WTE0,Family history of diabetes
+28,  female  ,28.88,1,NO, northeast , $4337.7352,8KB50SK6,Needs follow-up
+59,  male  ,26.4,0,NO, southeast ,11743.299,ZBU6P1WO,Check payment history
+35,  male  ,27.74,2,yes, northeast ,20984.0936,TSZ897WP,
+63,  female  ,31.8,0,no, southwest , $13880.949,1ORR5F3C,Smoking habits unclear
+40,  male  ,41.23,1,NO, northeast ,6610.1097,BMCZIBI4,Family history of diabetes
+20,  male  ,33.0,1,no, southwest , $1980.07,9G9UVENV,Needs follow-up
+40,  male  ,30.875,4,NO, northwest , $8162.71625,THLO5G2S,Check payment history
+24,  male  ,28.5,2,NO, northwest ,3537.703,8A39KD99,
+34,  female  ,26.73,1,no, southeast ,5002.7827,WB4Q8MQA,Smoking habits unclear
+45,  female  ,30.9,2,no, southwest , $8520.026,C65LXRE6,Family history of diabetes
+41,  female  ,37.1,2,no, southwest , $7371.772,R8161JTP,Needs follow-up
+53,  female  ,26.6,0,no, northwest , $10355.641,LJB3TGNQ,Check payment history
+27,  male  ,23.1,0,no, southeast , $2483.736,NJDGPGI4,
+26,  female  ,29.92,1,no, southeast ,3392.9768,UKK83X5B,Smoking habits unclear
+24,  female  ,23.21,0,no, southeast , $25081.76784,OWYNLF3R,Family history of diabetes
+34,  female  ,33.7,1,no, southwest , $5012.471,6O892EZ1,Needs follow-up
+53,  female  ,33.25,0,NO, northeast , $10564.8845,ICX67XH1,Check payment history
+32,  male  ,30.8,3,no, southwest , $5253.524,94UIDCSB,
+19,  male  ,34.8,0,YES, southwest ,34779.615,IA7SA73U,Smoking habits unclear
+42,  male  ,24.64,0,YES, southeast , $19515.5416,8943D3FW,Family history of diabetes
+55,  male  ,33.88,3,no, southeast , $11987.1682,JLYS3ABJ,Needs follow-up
+28,  male  ,38.06,0,NO, southeast , $2689.4954,BF9EPKQ4,Check payment history
+58,  female  ,41.91,0,NO, southeast ,24227.33724,2C27PAYD,
+41,  female  ,31.635,1,NO, northeast , $7358.17565,J760IIFH,Smoking habits unclear
+47,  male  ,25.46,2,no, northeast ,9225.2564,JOZ23UR3,Family history of diabetes
+42,  female  ,36.195,1,no, northwest ,7443.64305,216DP4YL,Needs follow-up
+59,  female  ,27.83,3,NO, southeast ,14001.2867,WH67SJ8J,Check payment history
+19,  female  ,17.8,0,no, southwest ,1727.785,V2K1CSJI,
+59,  male  ,27.5,1,NO, southwest , $12333.828,FBKT0QDA,Smoking habits unclear
+39,  male  ,24.51,2,no, northwest ,6710.1919,XJA8IY5F,Family history of diabetes
+40,  female  ,22.22,2,yes, southeast , $19444.2658,XN9ZM4M7,Needs follow-up
+18,  female  ,26.73,0,no, southeast ,1615.7667,KQZZ2X9V,Check payment history
+31,  male  ,38.39,2,NO, southeast ,4463.2051,IC654GDI,
+19,  male  ,29.07,0,YES, northwest , $17352.6803,KS7CJZCD,Smoking habits unclear
+44,  male  ,38.06,1,NO, southeast ,7152.6714,X37S6Y36,Family history of diabetes
+23,  female  ,36.67,2,yes, northeast ,38511.6283,MHYSODTM,Needs follow-up
+33,  female  ,22.135,1,no, northeast ,5354.07465,LE8Z7FOF,Check payment history
+55,  female  ,26.8,1,no, southwest , $35160.13457,MZ3NYRTF,
+40,  male  ,35.3,3,no, southwest ,7196.867,3AXC2UZO,Smoking habits unclear
+63,  female  ,27.74,0,yes, northeast , $29523.1656,2R0EKNU1,Family history of diabetes
+54,  male  ,30.02,0,no, northwest , $24476.47851,VHGZ8EI7,Needs follow-up
+60,  female  ,38.06,0,no, southeast , $12648.7034,IFTQ7DR3,Check payment history
+24,  male  ,35.86,0,no, southeast , $1986.9334,W4LW9RJB,
+19,  male  ,20.9,1,no, southwest ,1832.094,XC5CIIYH,Smoking habits unclear
+29,  male  ,28.975,1,no, northeast , $4040.55825,NH99C8H2,Family history of diabetes
+18,  male  ,17.29,2,YES, northeast , $12829.4551,9HDS8ABQ,Needs follow-up
+63,  female  ,32.2,2,yes, southwest ,47305.305,FB6I7DTZ,Check payment history
+54,  male  ,34.21,2,yes, southeast , $44260.7499,W1L6HUNJ,
+27,  male  ,30.3,3,NO, southwest , $4260.744,LI3KNB7S,Smoking habits unclear
+50,  male  ,31.825,0,yes, northeast ,41097.16175,TDH49QT2,Family history of diabetes
+55,  female  ,25.365,3,no, northeast ,13047.33235,ID206RLH,Needs follow-up
+56,  male  ,33.63,0,YES, northwest , $43921.1837,GQ40S1I2,Check payment history
+38,  female  ,40.15,0,NO, southeast ,5400.9805,ALYVCYOG,
+51,  male  ,24.415,4,NO, northwest ,11520.09985,15FMSBH8,Smoking habits unclear
+19,  male  ,31.92,0,YES, northwest , $33750.2918,YHWOSRE9,Family history of diabetes
+58,  female  ,25.2,0,no, southwest ,11837.16,INT9AH8C,Needs follow-up
+20,  female  ,26.84,1,YES, southeast , $17085.2676,K9N8NM5N,Check payment history
+52,  male  ,24.32,3,yes, northeast , $24869.8368,AKE6IELV,
+19,  male  ,36.955,0,YES, northwest , $36219.40545,GX3EYJVQ,Smoking habits unclear
+53,  female  ,38.06,3,no, southeast ,20462.99766,QUDYSXT2,Family history of diabetes
+46,  male  ,42.35,3,yes, southeast ,46151.1245,UQ5NSMMG,Needs follow-up
+40,  male  ,19.8,1,YES, southeast ,17179.522,EF34AUB3,Check payment history
+59,  female  ,32.395,3,no, northeast ,14590.63205,Z4G509JO,
+45,  male  ,30.2,1,NO, southwest , $7441.053,KMSU63BC,Smoking habits unclear
+49,  male  ,25.84,1,no, northeast , $9282.4806,H73729LR,Family history of diabetes
+18,  male  ,29.37,1,no, southeast ,1719.4363,LLQEYRIN,Needs follow-up
+50,  male  ,34.2,2,YES, southwest , $42856.838,OC8GCGQ1,Check payment history
+41,  male  ,37.05,2,no, northwest , $7265.7025,Z8U8KTV3,
+50,  male  ,27.455,1,NO, northeast ,9617.66245,X5YXI30J,Smoking habits unclear
+25,  male  ,27.55,0,no, northwest , $2523.1695,OXB2WGKM,Family history of diabetes
+47,  female  ,26.6,2,no, northeast ,9715.841,KTKJU0YY,Needs follow-up
+19,  male  ,20.615,2,NO, northwest ,2803.69785,SG6WRV1Q,Check payment history
+22,  female  ,24.3,0,no, southwest , $2150.469,BAUIJPMG,
+59,  male  ,31.79,2,NO, southeast , $12928.7911,GPIBEYZ5,Smoking habits unclear
+51,  female  ,21.56,1,NO, southeast ,9855.1314,7KTBZOYY,Family history of diabetes
+40,  female  ,28.12,1,yes, northeast ,22331.5668,J13KQIR4,Needs follow-up
+54,  male  ,40.565,3,YES, northeast , $48549.17835,2SRW0JRE,Check payment history
+30,  male  ,27.645,1,no, northeast ,4237.12655,WE43TQDY,
+55,  female  ,32.395,1,no, northeast , $11879.10405,BBJJ1F6F,Smoking habits unclear
+52,  female  ,31.2,0,NO, southwest ,9625.92,L86RTWUD,Family history of diabetes
+46,  male  ,26.62,1,no, southeast ,7742.1098,ZDFLSZKF,Needs follow-up
+46,  female  ,48.07,2,no, northeast ,9432.9253,IXFMUM11,Check payment history
+63,  female  ,26.22,0,NO, northwest ,14256.1928,8JBE9JYV,
+59,  female  ,36.765,1,yes, northeast , $47896.79135,2Q5Y5KGG,Smoking habits unclear
+52,  male  ,26.4,3,no, southeast , $25992.82104,5JRZV2IC,Family history of diabetes
+28,  female  ,33.4,0,NO, southwest ,3172.018,E4IKJU3I,Needs follow-up
+29,  male  ,29.64,1,NO, northeast , $20277.80751,SI0OHCSZ,Check payment history
+25,  male  ,45.54,2,YES, southeast , $42112.2356,07Q7499J,
+22,  female  ,28.82,0,NO, southeast ,2156.7518,H1W5H6VU,Smoking habits unclear
+25,  male  ,26.8,3,NO, southwest ,3906.127,PDMIKU1I,Family history of diabetes
+18,  male  ,22.99,0,no, northeast ,1704.5681,UKH088A2,Needs follow-up
+19,  male  ,27.7,0,yes, southwest ,16297.846,6EOAFRWS,Check payment history
+47,  male  ,25.41,1,yes, southeast , $21978.6769,CG3C3OGO,
+31,  male  ,34.39,3,yes, northwest , $38746.3551,S5WLWSEN,Smoking habits unclear
+48,  female  ,28.88,1,NO, northwest ,9249.4952,ION9NG0Y,Family history of diabetes
+36,  male  ,27.55,3,no, northeast ,6746.7425,DC6X3AND,Needs follow-up
+53,  female  ,22.61,3,YES, northeast , $24873.3849,5XOH39NI,Check payment history
+56,  female  ,37.51,2,no, southeast , $12265.5069,6SWLDMLD,
+28,  female  ,33.0,2,no, southeast , $4349.462,AZVNWGB1,Smoking habits unclear
+57,  female  ,38.0,2,NO, southwest , $12646.207,709CTQCI,Family history of diabetes
+29,  male  ,33.345,2,no, northwest ,19442.3535,SD8GAQ6V,Needs follow-up
+28,  female  ,27.5,2,no, southwest ,20177.67113,NT33XXLB,Check payment history
+30,  female  ,33.33,1,NO, southeast ,4151.0287,KO6K36SI,
+58,  male  ,34.865,0,NO, northeast ,11944.59435,8N8P7365,Smoking habits unclear
+41,  female  ,33.06,2,NO, northwest ,7749.1564,K8VX4OBP,Family history of diabetes
+50,  male  ,26.6,0,NO, southwest ,8444.474,1P39EDQQ,Needs follow-up
+19,  female  ,24.7,0,NO, southwest , $1737.376,3EPTEDN7,Check payment history
+43,  male  ,35.97,3,yes, southeast , $42124.5153,Z371OYAI,
+49,  male  ,35.86,0,no, southeast ,8124.4084,KPU20KZ8,Smoking habits unclear
+27,  female  ,31.4,0,YES, southwest ,34838.873,MHBUZ0D6,Family history of diabetes
+52,  male  ,33.25,0,NO, northeast , $9722.7695,OZ0L53R8,Needs follow-up
+50,  male  ,32.205,0,NO, northwest ,8835.26495,17FQV9DI,Check payment history
+54,  male  ,32.775,0,no, northeast ,10435.06525,S7YJ11NH,
+44,  female  ,27.645,0,NO, northwest ,7421.19455,KBC7SJL9,Smoking habits unclear
+32,  male  ,37.335,1,NO, northeast ,4667.60765,YVZQALXA,Family history of diabetes
+34,  male  ,25.27,1,NO, northwest , $4894.7533,K725ELCR,Needs follow-up
+26,  female  ,29.64,4,no, northeast ,24671.66334,SRG7IHPR,Check payment history
+34,  male  ,30.8,0,YES, southwest ,35491.64,PIPKX99D,
+57,  male  ,40.945,0,NO, northeast ,11566.30055,D37SVDBX,Smoking habits unclear
+29,  male  ,27.2,0,no, southwest ,2866.091,MJRX1NP6,Family history of diabetes
+40,  male  ,34.105,1,NO, northeast ,6600.20595,MWSMKBNF,Needs follow-up
+27,  female  ,23.21,1,no, southeast ,3561.8889,R0E3Z22V,Check payment history
+45,  male  ,36.48,2,YES, northwest , $42760.5022,DMOWBPVG,
+64,  female  ,33.8,1,yes, southwest , $47928.03,QA0P3F1A,Smoking habits unclear
+52,  male  ,36.7,0,NO, southwest ,9144.565,BA74QQVX,Family history of diabetes
+61,  female  ,36.385,1,YES, northeast ,48517.56315,JU7N94JN,Needs follow-up
+52,  male  ,27.36,0,YES, northwest , $24393.6224,M9UZBWAA,Check payment history
+61,  female  ,31.16,0,no, northwest ,13429.0354,UWDGK6DG,
+56,  female  ,28.785,0,NO, northeast , $11658.37915,LXS5HEHW,Smoking habits unclear
+43,  female  ,35.72,2,no, northeast ,19144.57652,LP02G70W,Family history of diabetes
+64,  male  ,34.5,0,NO, southwest ,13822.803,ACX0Q1JE,Needs follow-up
+60,  male  ,25.74,0,no, southeast , $12142.5786,BU91D7TI,Check payment history
+62,  male  ,27.55,1,NO, northwest , $13937.6665,1GE5SD3Z,
+50,  male  ,32.3,1,yes, northeast , $41919.097,KLEUR39J,Smoking habits unclear
+46,  female  ,27.72,1,NO, southeast , $8232.6388,28DNTSUS,Family history of diabetes
+24,  female  ,27.6,0,NO, southwest ,18955.22017,XT184B61,Needs follow-up
+62,  male  ,30.02,0,NO, northwest , $13352.0998,FK8SPCUE,Check payment history
+60,  female  ,27.55,0,NO, northeast , $13217.0945,2EYII54P,
+63,  male  ,36.765,0,NO, northeast ,13981.85035,ISVYHTS4,Smoking habits unclear
+49,  female  ,41.47,4,no, southeast , $10977.2063,E4QUZQTS,Family history of diabetes
+34,  female  ,29.26,3,no, southeast , $6184.2994,9L1G5AX8,Needs follow-up
+33,  male  ,35.75,2,NO, southeast ,4889.9995,9APDILDB,Check payment history
+46,  male  ,33.345,1,no, northeast ,8334.45755,8HQX0IWA,
+36,  female  ,29.92,1,no, southeast , $5478.0368,U63P5G3T,Smoking habits unclear
+19,  male  ,27.835,0,NO, northwest , $1635.73365,2US61RD5,Family history of diabetes
+57,  female  ,23.18,0,NO, northwest , $11830.6072,6YRINBYK,Needs follow-up
+50,  female  ,25.6,0,no, southwest ,8932.084,SUPO7F5B,Check payment history
+30,  female  ,27.7,0,no, southwest , $3554.203,O1Q1Z3HD,
+33,  male  ,35.245,0,NO, northeast ,12404.8791,EJFR80UY,Smoking habits unclear
+18,  female  ,38.28,0,no, southeast ,14133.03775,WP9EIFB6,Family history of diabetes
+46,  male  ,27.6,0,no, southwest ,24603.04837,76UNTZVX,Needs follow-up
+46,  male  ,43.89,3,NO, southeast ,8944.1151,YBNM9BH7,Check payment history
+47,  male  ,29.83,3,no, northwest , $9620.3307,GDFHFZVJ,
+23,  male  ,41.91,0,NO, southeast , $1837.2819,RKRA8MFU,Smoking habits unclear
+18,  female  ,20.79,0,no, southeast ,1607.5101,V1802FDX,Family history of diabetes
+48,  female  ,32.3,2,NO, northeast ,10043.249,FN8RK4YM,Needs follow-up
+35,  male  ,30.5,1,NO, southwest ,4751.07,RXUB11AS,Check payment history
+19,  female  ,21.7,0,YES, southwest ,13844.506,MX17993D,
+21,  female  ,26.4,1,no, southwest ,2597.779,2B5WUYWF,Smoking habits unclear
+21,  female  ,21.89,2,no, southeast , $3180.5101,X4UN8AYX,Family history of diabetes
+49,  female  ,30.78,1,NO, northeast , $9778.3472,2OHI7868,Needs follow-up
+56,  female  ,32.3,3,NO, northeast , $13430.265,D1X76JW2,Check payment history
+42,  female  ,24.985,2,no, northwest , $8017.06115,Q177OM38,
+44,  male  ,32.015,2,no, northwest , $8116.26885,VKGNH4A9,Smoking habits unclear
+18,  male  ,30.4,3,NO, northeast ,3481.868,QVPUTAXG,Family history of diabetes
+61,  female  ,21.09,0,NO, northwest ,13415.0381,JFF2O6BC,Needs follow-up
+57,  female  ,22.23,0,NO, northeast , $12029.2867,T3BWZC9U,Check payment history
+42,  female  ,33.155,1,NO, northeast ,7639.41745,ETFST3HF,
+26,  male  ,32.9,2,YES, southwest , $36085.219,ZF59PPFF,Smoking habits unclear
+20,  male  ,33.33,0,no, southeast , $1391.5287,OKJO0H4D,Family history of diabetes
+23,  female  ,28.31,0,YES, northwest ,18033.9679,E6K83C2Y,Needs follow-up
+39,  female  ,24.89,3,yes, northeast , $21659.9301,ZT5A85LZ,Check payment history
+24,  male  ,40.15,0,yes, southeast ,38126.2465,KLTD1MA6,
+64,  female  ,30.115,3,no, northwest , $16455.70785,7RB5B1QJ,Smoking habits unclear
+62,  male  ,31.46,1,NO, southeast , $27000.98473,JOK2ZRVO,Family history of diabetes
+27,  female  ,17.955,2,yes, northeast ,15006.57945,AJARY3PL,Needs follow-up
+55,  male  ,30.685,0,yes, northeast , $42303.69215,VPW8FWL2,Check payment history
+55,  male  ,33.0,0,no, southeast ,20781.48892,B3B37TDZ,
+35,  female  ,43.34,2,NO, southeast ,5846.9176,I543IG4G,Smoking habits unclear
+44,  male  ,22.135,2,no, northeast ,8302.53565,U9RY7RWY,Family history of diabetes
+19,  male  ,34.4,0,NO, southwest ,1261.859,NXCNCQ9J,Needs follow-up
+58,  female  ,39.05,0,no, southeast ,11856.4115,K24MLAYL,Check payment history
+50,  male  ,25.365,2,NO, northwest , $30284.64294,K0PJOYAK,
+26,  female  ,22.61,0,NO, northwest ,3176.8159,R5LUDS65,Smoking habits unclear
+24,  female  ,30.21,3,no, northwest ,4618.0799,NNOGQ8EX,Family history of diabetes
+48,  male  ,35.625,4,no, northeast ,10736.87075,DFV702JS,Needs follow-up
+19,  female  ,37.43,0,no, northwest , $2138.0707,W89MISGX,Check payment history
+48,  male  ,31.445,1,no, northeast ,8964.06055,5TXC2QZI,
+49,  male  ,31.35,1,NO, northeast , $9290.1395,QHV7H670,Smoking habits unclear
+46,  female  ,32.3,2,NO, northeast ,9411.005,YDB1IW1Q,Family history of diabetes
+46,  male  ,19.855,0,no, northwest ,7526.70645,WF0Z7MFM,Needs follow-up
+43,  female  ,34.4,3,no, southwest , $8522.003,KOFKVYQU,Check payment history
+21,  male  ,31.02,0,NO, southeast ,16586.49771,DBPWQ22R,
+64,  male  ,25.6,2,NO, southwest , $14988.432,4TAYZ8F1,Smoking habits unclear
+18,  female  ,38.17,0,NO, southeast , $1631.6683,M0DVKP80,Family history of diabetes
+51,  female  ,20.6,0,NO, southwest ,9264.797,QV6M04GS,Needs follow-up
+47,  male  ,47.52,1,NO, southeast , $8083.9198,620T19MW,Check payment history
+64,  female  ,32.965,0,NO, northwest , $14692.66935,R81J1R9B,
+49,  male  ,32.3,3,no, northwest ,10269.46,KCZVKWC7,Smoking habits unclear
+31,  male  ,20.4,0,no, southwest , $3260.199,LWF4UKR4,Family history of diabetes
+52,  female  ,38.38,2,NO, northeast , $11396.9002,27A34LNP,Needs follow-up
+33,  female  ,24.31,0,no, southeast ,4185.0979,LK114LVN,Check payment history
+47,  female  ,23.6,1,NO, southwest ,8539.671,XDKK9TYR,
+38,  male  ,21.12,3,NO, southeast ,6652.5288,LXIT15H2,Smoking habits unclear
+32,  male  ,30.03,1,NO, southeast , $4074.4537,2KB23437,Family history of diabetes
+19,  male  ,17.48,0,NO, northwest ,1621.3402,6OTG7BPO,Needs follow-up
+44,  female  ,20.235,1,YES, northeast , $19594.80965,6Y7PW150,Check payment history
+26,  female  ,17.195,2,yes, northeast ,14455.64405,RTCCIYXY,
+25,  male  ,23.9,5,no, southwest ,5080.096,PD76STJX,Smoking habits unclear
+19,  female  ,35.15,0,no, northwest , $2134.9015,PM9L9VD9,Family history of diabetes
+43,  female  ,35.64,1,no, southeast , $7345.7266,39BTEPW7,Needs follow-up
+52,  male  ,34.1,0,NO, southeast , $9140.951,CQD0BYDZ,Check payment history
+36,  female  ,22.6,2,YES, southwest , $18608.262,YG9SK6PL,
+64,  male  ,39.16,1,NO, southeast , $14418.2804,11HUE81B,Smoking habits unclear
+63,  female  ,26.98,0,yes, northwest ,28950.4692,PL59W6P8,Family history of diabetes
+64,  male  ,33.88,0,YES, southeast ,46889.2612,KDM1RIMF,Needs follow-up
+61,  male  ,35.86,0,yes, southeast , $46599.1084,SI3BSDUK,Check payment history
+40,  male  ,32.775,1,yes, northeast , $39125.33225,VS3OWLOE,
+25,  male  ,30.59,0,NO, northeast , $2727.3951,BQ4QZZI0,Smoking habits unclear
+48,  male  ,30.2,2,NO, southwest , $8968.33,R2O2UWSL,Family history of diabetes
+45,  male  ,24.31,5,NO, southeast , $9788.8659,QUJ1O7IZ,Needs follow-up
+38,  female  ,27.265,1,NO, northeast ,6555.07035,ZQHVIYOS,Check payment history
+18,  female  ,29.165,0,no, northeast , $7323.734819,LBR0G7FH,
+21,  female  ,16.815,1,NO, northeast , $3167.45585,YIWF0CJO,Smoking habits unclear
+27,  female  ,30.4,3,NO, northwest ,18804.7524,F86TG4QB,Family history of diabetes
+19,  male  ,33.1,0,NO, southwest ,23082.95533,ZYEO1V1D,Needs follow-up
+29,  female  ,20.235,2,no, northwest , $4906.40965,S79KVCJG,Check payment history
+42,  male  ,26.9,0,no, southwest , $5969.723,P4B74YRZ,
+60,  female  ,30.5,0,no, southwest , $12638.195,SNUKOE05,Smoking habits unclear
+31,  male  ,28.595,1,NO, northwest ,4243.59005,Z6SLKDJ3,Family history of diabetes
+60,  male  ,33.11,3,no, southeast ,13919.8229,F15BRZCM,Needs follow-up
+22,  male  ,31.73,0,NO, northeast , $2254.7967,IK0LSMRF,Check payment history
+35,  male  ,28.9,3,NO, southwest ,5926.846,EMZJUFCU,
+52,  female  ,46.75,5,NO, southeast , $12592.5345,Y52DS9AB,Smoking habits unclear
+26,  male  ,29.45,0,NO, northeast ,2897.3235,AHNO80GL,Family history of diabetes
+31,  female  ,32.68,1,NO, northwest ,4738.2682,PYXYCEBP,Needs follow-up
+33,  female  ,33.5,0,YES, southwest , $37079.372,XWDX5YMJ,Check payment history
+18,  male  ,43.01,0,no, southeast ,1149.3959,45FHVD9J,
+59,  female  ,36.52,1,NO, southeast , $28287.89766,DVJL80X4,Smoking habits unclear
+56,  male  ,26.695,1,YES, northwest ,26109.32905,TTLJ2QM7,Family history of diabetes
+45,  female  ,33.1,0,no, southwest , $7345.084,95PKLL3D,Needs follow-up
+60,  male  ,29.64,0,NO, northeast , $12730.9996,UYUL06XC,Check payment history
+56,  female  ,25.65,0,NO, northwest ,11454.0215,2CAROLN0,
+40,  female  ,29.6,0,no, southwest ,5910.944,PBNX0EPZ,Smoking habits unclear
+35,  male  ,38.6,1,NO, southwest , $4762.329,OLSOEJJF,Family history of diabetes
+39,  male  ,29.6,4,no, southwest ,7512.267,7IZ173RD,Needs follow-up
+30,  male  ,24.13,1,no, northwest ,4032.2407,4THE06ZV,Check payment history
+24,  male  ,23.4,0,NO, southwest , $1969.614,S3NJZDQH,
+20,  male  ,29.735,0,no, northwest ,1769.53165,YDFPIF7J,Smoking habits unclear
+32,  male  ,46.53,2,NO, southeast , $4686.3887,C9SKFSBW,Family history of diabetes
+59,  male  ,37.4,0,no, southwest ,21797.0004,APPHPV05,Needs follow-up
+55,  female  ,30.14,2,NO, southeast ,11881.9696,SU7U4CA8,Check payment history
+57,  female  ,30.495,0,no, northwest ,11840.77505,PMVNDE1L,
+56,  male  ,39.6,0,no, southwest , $10601.412,WNLNJI4G,Smoking habits unclear
+40,  female  ,33.0,3,NO, southeast , $7682.67,NFZ72ZOT,Family history of diabetes
+49,  female  ,36.63,3,NO, southeast ,10381.4787,G4BX0LVN,Needs follow-up
+42,  male  ,30.0,0,YES, southwest ,22144.032,X49QWFVH,Check payment history
+62,  female  ,38.095,2,NO, northeast ,15230.32405,RXMB32AF,
+56,  male  ,25.935,0,no, northeast ,11165.41765,CFY16MWU,Smoking habits unclear
+19,  male  ,25.175,0,NO, northwest ,1632.03625,AG4Y1HZO,Family history of diabetes
+30,  female  ,28.38,1,yes, southeast , $19521.9682,Q45GBCLW,Needs follow-up
+60,  female  ,28.7,1,NO, southwest ,13224.693,VFOGY788,Check payment history
+56,  female  ,33.82,2,NO, northwest , $12643.3778,NZPY52I0,
+28,  female  ,24.32,1,NO, northeast , $23288.9284,TAB0HTDO,Smoking habits unclear
+18,  female  ,24.09,1,no, southeast , $2201.0971,P5H8NE7W,Family history of diabetes
+27,  male  ,32.67,0,NO, southeast ,2497.0383,Q0XVZWHT,Needs follow-up
+18,  female  ,30.115,0,no, northeast ,2203.47185,4X8FZB1W,Check payment history
+19,  female  ,29.8,0,no, southwest , $1744.465,UC6OEEBM,
+47,  female  ,33.345,0,NO, northeast ,20878.78443,3Q370EBS,Smoking habits unclear
+54,  male  ,25.1,3,YES, southwest , $25382.297,2BW5TP3S,Family history of diabetes
+61,  male  ,28.31,1,YES, northwest , $28868.6639,HIDY7885,Needs follow-up
+24,  male  ,28.5,0,yes, northeast ,35147.52848,IKL6MY4Y,Check payment history
+25,  male  ,35.625,0,NO, northwest ,2534.39375,QC6RN00X,
+21,  male  ,36.85,0,NO, southeast , $1534.3045,51B37OOD,Smoking habits unclear
+23,  male  ,32.56,0,NO, southeast , $1824.2854,LRF5OCHL,Family history of diabetes
+63,  male  ,41.325,3,no, northwest , $15555.18875,KCJNBZEM,Needs follow-up
+49,  male  ,37.51,2,NO, southeast ,9304.7019,AALKGLFV,Check payment history
+18,  female  ,31.35,0,NO, southeast ,1622.1885,CU3R1PG8,
+51,  female  ,39.5,1,NO, southwest , $9880.068,O26AFS6H,Smoking habits unclear
+48,  male  ,34.3,3,NO, southwest ,9563.029,RPHBW86M,Family history of diabetes
+31,  female  ,31.065,0,no, northeast ,4347.02335,ZBZ7GWYN,Needs follow-up
+54,  female  ,21.47,3,NO, northwest ,12475.3513,OK14L65C,Check payment history
+19,  male  ,28.7,0,no, southwest , $1253.936,J8DTCOFM,
+44,  female  ,38.06,0,YES, southeast ,48885.13561,LAMFGI0I,Smoking habits unclear
+53,  male  ,31.16,1,no, northwest , $10461.9794,OCBKKEB9,Family history of diabetes
+19,  female  ,32.9,0,NO, southwest , $1748.774,GDCEF5R6,Needs follow-up
+61,  female  ,25.08,0,NO, southeast ,24513.09126,GB3UGN75,Check payment history
+18,  female  ,25.08,0,NO, northeast , $2196.4732,YZZAAMUH,
+61,  male  ,43.4,0,NO, southwest ,12574.049,SWOPUH3O,Smoking habits unclear
+21,  male  ,25.7,4,yes, southwest ,17942.106,082XJR8P,Family history of diabetes
+20,  male  ,27.93,0,NO, northeast , $1967.0227,Y2NEIAA4,Needs follow-up
+31,  female  ,23.6,2,NO, southwest , $4931.647,LI8RCHFK,Check payment history
+45,  male  ,28.7,2,NO, southwest , $8027.968,DJZNPZTN,
+44,  female  ,23.98,2,NO, southeast ,8211.1002,VGNU2THJ,Smoking habits unclear
+62,  female  ,39.2,0,no, southwest , $13470.86,BXKKTNQO,Family history of diabetes
+29,  male  ,34.4,0,YES, southwest ,36197.699,IYXH2E8L,Needs follow-up
+43,  male  ,26.03,0,no, northeast ,6837.3687,88WG89EB,Check payment history
+51,  male  ,23.21,1,yes, southeast , $22218.1149,C158N4PA,
+19,  male  ,30.25,0,YES, southeast ,32548.3405,6GQC4PX3,Smoking habits unclear
+38,  female  ,28.93,1,no, southeast , $5974.3847,1IW4EWTX,Family history of diabetes
+37,  male  ,30.875,3,NO, northwest ,6796.86325,YFVJ9RGG,Needs follow-up
+22,  male  ,31.35,1,no, northwest ,2643.2685,1AQLNC49,Check payment history
+21,  male  ,23.75,2,no, northwest ,3077.0955,ENACZ6E9,
+24,  female  ,25.27,0,NO, northeast ,3044.2133,MAR5BUF2,Smoking habits unclear
+57,  female  ,28.7,0,NO, southwest , $11455.28,EDPRC6M1,Family history of diabetes
+56,  male  ,32.11,1,NO, northeast ,11763.0009,3IT233KB,Needs follow-up
+27,  male  ,33.66,0,NO, southeast ,2498.4144,ULFQGTFM,Check payment history
+51,  male  ,22.42,0,NO, northeast , $9361.3268,N6V7E9L3,
+19,  male  ,30.4,0,no, southwest , $1256.299,3LD68N05,Smoking habits unclear
+39,  male  ,28.3,1,yes, southwest ,21082.16,KO9BCKOQ,Family history of diabetes
+58,  male  ,35.7,0,no, southwest ,11362.755,GRNQYHZ1,Needs follow-up
+20,  male  ,35.31,1,NO, southeast , $27724.28875,6WM79OP7,Check payment history
+45,  male  ,30.495,2,no, northwest ,8413.46305,J4B81RGC,
+35,  female  ,31.0,1,no, southwest , $5240.765,ZJ9J6LPD,Smoking habits unclear
+31,  male  ,30.875,0,no, northeast , $3857.75925,VUNIB2E7,Family history of diabetes
+50,  female  ,27.36,0,no, northeast , $25656.57526,ROA9ESK0,Needs follow-up
+32,  female  ,44.22,0,NO, southeast ,3994.1778,UX8NXVQ7,Check payment history
+51,  female  ,33.915,0,no, northeast ,9866.30485,ML0AKUNJ,
+38,  female  ,37.73,0,NO, southeast , $5397.6167,LPI0FGCP,Smoking habits unclear
+42,  male  ,26.07,1,YES, southeast , $38245.59327,PCQB7Q3G,Family history of diabetes
+18,  female  ,33.88,0,NO, southeast ,11482.63485,TO3KQ74R,Needs follow-up
+19,  female  ,30.59,2,no, northwest , $24059.68019,8ZLCZR5K,Check payment history
+51,  female  ,25.8,1,NO, southwest , $9861.025,S6F3OXDM,
+46,  male  ,39.425,1,no, northeast , $8342.90875,8X2A4XFY,Smoking habits unclear
+18,  male  ,25.46,0,NO, northeast , $1708.0014,NOUQLQRQ,Family history of diabetes
+57,  male  ,42.13,1,yes, southeast , $48675.5177,7OER7B2S,Needs follow-up
+62,  female  ,31.73,0,no, northeast , $14043.4767,8SPORYYU,Check payment history
+59,  male  ,29.7,2,NO, southeast , $12925.886,2RX052DN,
+37,  male  ,36.19,0,no, southeast ,19214.70553,RLRIVXOW,Smoking habits unclear
+64,  male  ,40.48,0,no, southeast , $13831.1152,41Q2YHYU,Family history of diabetes
+38,  male  ,28.025,1,NO, northeast , $6067.12675,7JMAZV33,Needs follow-up
+33,  female  ,38.9,3,NO, southwest ,5972.378,8A0AFHVR,Check payment history
+46,  female  ,30.2,2,no, southwest ,8825.086,ET3BDWOB,
+46,  female  ,28.05,1,NO, southeast , $8233.0975,B4PRNXR4,Smoking habits unclear
+53,  male  ,31.35,0,NO, southeast ,27346.04207,RWDT6F31,Family history of diabetes
+34,  female  ,38.0,3,NO, southwest , $6196.448,YKQO4TL9,Needs follow-up
+20,  female  ,31.79,2,NO, southeast ,3056.3881,805R6IAD,Check payment history
+63,  female  ,36.3,0,no, southeast , $13887.204,QLKAT6S8,
+54,  female  ,47.41,0,yes, southeast , $63770.42801,5EBZIQZ1,Smoking habits unclear
+54,  male  ,30.21,0,NO, northwest , $10231.4999,XOJ3WQ3O,Family history of diabetes
+49,  male  ,25.84,2,YES, northwest , $23807.2406,48N5N9QY,Needs follow-up
+28,  male  ,35.435,0,NO, northeast ,3268.84665,UZS1ZQYU,Check payment history
+54,  female  ,46.7,2,NO, southwest ,11538.421,CTU2UASK,
+25,  female  ,28.595,0,no, northeast ,3213.62205,RK8CE1YE,Smoking habits unclear
+43,  female  ,46.2,0,YES, southeast , $45863.205,TDUXIYC7,Family history of diabetes
+63,  male  ,30.8,0,no, southwest , $13390.559,UHCAVA3U,Needs follow-up
+32,  female  ,28.93,0,NO, southeast , $3972.9247,0DN0HLRS,Check payment history
+62,  male  ,21.4,0,no, southwest , $12957.118,APHT2NO7,
+52,  female  ,31.73,2,no, northwest ,11187.6567,3YXKLRBK,Smoking habits unclear
+25,  female  ,41.325,0,no, northeast , $17878.90068,JSUUXN53,Family history of diabetes
+28,  male  ,23.8,2,NO, southwest , $3847.674,SQ7SUBJR,Needs follow-up
+46,  male  ,33.44,1,NO, northeast ,8334.5896,2564VNZG,Check payment history
+34,  male  ,34.21,0,NO, southeast , $3935.1799,LWKY1EER,
+35,  female  ,34.105,3,yes, northwest ,39983.42595,536A1T28,Smoking habits unclear
+19,  male  ,35.53,0,no, northwest ,1646.4297,AW8SAFYD,Family history of diabetes
+46,  female  ,19.95,2,no, northwest , $9193.8385,1UB3SYUM,Needs follow-up
+54,  female  ,32.68,0,no, northeast ,10923.9332,66E0XQK4,Check payment history
+27,  male  ,30.5,0,no, southwest ,2494.022,X864Z78H,
+50,  male  ,44.77,1,no, southeast ,9058.7303,S467SII8,Smoking habits unclear
+18,  female  ,32.12,2,NO, southeast , $2801.2588,IZPSHOSY,Family history of diabetes
+19,  female  ,30.495,0,no, northwest , $2128.43105,DYEQJFZV,Needs follow-up
+38,  female  ,40.565,1,no, northwest ,6373.55735,8K67CGA9,Check payment history
+41,  male  ,30.59,2,NO, northwest , $7256.7231,LCU6WX5T,
+49,  female  ,31.9,5,no, southwest , $11552.904,I0QTSTJC,Smoking habits unclear
+48,  male  ,40.565,2,yes, northwest ,45702.02235,SUKSDAL5,Family history of diabetes
+31,  female  ,29.1,0,NO, southwest ,3761.292,WLAE68V3,Needs follow-up
+18,  female  ,37.29,1,no, southeast , $2219.4451,AFVOW2BM,Check payment history
+30,  female  ,43.12,2,NO, southeast , $4753.6368,SQIX1IUT,
+62,  female  ,36.86,1,no, northeast , $31620.00106,KC7Q353P,Smoking habits unclear
+57,  female  ,34.295,2,no, northeast ,13224.05705,APGX81SH,Family history of diabetes
+58,  female  ,27.17,0,no, northwest ,12222.8983,FS6V0E58,Needs follow-up
+22,  male  ,26.84,0,no, southeast ,1664.9996,SXY8VQGO,Check payment history
+31,  female  ,38.095,1,YES, northeast ,58571.07448,0BQKUZ3Y,
+52,  male  ,30.2,1,NO, southwest , $9724.53,GMWGXXZQ,Smoking habits unclear
+25,  female  ,23.465,0,NO, northeast ,3206.49135,NZJ68JP1,Family history of diabetes
+59,  male  ,25.46,1,NO, northeast ,12913.9924,45T9LZP4,Needs follow-up
+19,  male  ,30.59,0,NO, northwest ,1639.5631,G3UC9ARI,Check payment history
+39,  male  ,45.43,2,NO, southeast ,6356.2707,WERTOUHU,
+32,  female  ,23.65,1,no, southeast , $17626.23951,MJE8F5I9,Smoking habits unclear
+19,  male  ,20.7,0,NO, southwest , $1242.816,KOF4L35G,Family history of diabetes
+33,  female  ,28.27,1,NO, southeast , $4779.6023,MZN6YWDC,Needs follow-up
+21,  male  ,20.235,3,no, northeast ,3861.20965,TK28HSC0,Check payment history
+34,  female  ,30.21,1,YES, northwest , $43943.8761,0B74G1L4,
+61,  female  ,35.91,0,no, northeast ,13635.6379,JWZ6O753,Smoking habits unclear
+38,  female  ,30.69,1,NO, southeast ,5976.8311,ZNQL4OPI,Family history of diabetes
+58,  female  ,29.0,0,no, southwest , $11842.442,UJOY5SDG,Needs follow-up
+47,  male  ,19.57,1,no, northwest ,8428.0693,9NWOBZAT,Check payment history
+20,  male  ,31.13,2,NO, southeast ,2566.4707,DU88J5H0,
+21,  female  ,21.85,1,YES, northeast , $15359.1045,HF8QBI7D,Smoking habits unclear
+41,  male  ,40.26,0,no, southeast , $5709.1644,ZJT93H7S,Family history of diabetes
+46,  female  ,33.725,1,no, northeast , $8823.98575,2WW79T0R,Needs follow-up
+42,  female  ,29.48,2,no, southeast , $7640.3092,V9LXPN9P,Check payment history
+34,  female  ,33.25,1,NO, northeast ,5594.8455,GK24RL0N,
+43,  male  ,32.6,2,no, southwest , $7441.501,5ND182FB,Smoking habits unclear
+52,  female  ,37.525,2,no, northwest ,33471.97189,4BLGG5P2,Family history of diabetes
+18,  female  ,39.16,0,NO, southeast , $1633.0444,R8JCSI57,Needs follow-up
+51,  male  ,31.635,0,no, northwest ,9174.13565,A13D5V9Y,Check payment history
+56,  female  ,25.3,0,no, southwest ,11070.535,TBKM97BB,
+64,  female  ,39.05,3,no, southeast ,16085.1275,QKP82VGN,Smoking habits unclear
+19,  female  ,28.31,0,yes, northwest , $17468.9839,1PZBJFDK,Family history of diabetes
+51,  female  ,34.1,0,NO, southeast , $9283.562,DBMNTT1J,Needs follow-up
+27,  female  ,25.175,0,no, northeast ,3558.62025,OS0ABEXO,Check payment history
+59,  female  ,23.655,0,YES, northwest ,25678.77845,OQKEAW12,
+28,  male  ,26.98,2,no, northeast ,4435.0942,5WGON6TG,Smoking habits unclear
+30,  male  ,37.8,2,yes, southwest ,39241.442,ZM61HHX4,Family history of diabetes
+47,  female  ,29.37,1,NO, southeast , $8547.6913,P2CYB9H0,Needs follow-up
+38,  female  ,34.8,2,NO, southwest , $6571.544,7KYKL97Q,Check payment history
+18,  female  ,33.155,0,no, northeast , $2207.69745,HV4CO0IX,
+34,  female  ,19.0,3,no, northeast , $6753.038,5J218GEO,Smoking habits unclear
+20,  female  ,33.0,0,no, southeast , $1880.07,RXSFK9WV,Family history of diabetes
+47,  female  ,36.63,1,YES, southeast , $42969.8527,RZ8M9RGR,Needs follow-up
+56,  female  ,28.595,0,no, northeast , $11658.11505,SVXMHFRU,Check payment history
+49,  male  ,25.6,2,YES, southwest , $23306.547,1O7KS2T0,
+19,  female  ,33.11,0,YES, southeast ,34439.8559,JSRHYGPJ,Smoking habits unclear
+55,  female  ,37.1,0,no, southwest , $10713.644,3GWPRNW3,Family history of diabetes
+30,  male  ,31.4,1,no, southwest ,3659.346,XGNPOBR1,Needs follow-up
+37,  male  ,34.1,4,yes, southwest ,40182.246,V8PNEV4F,Check payment history
+49,  female  ,21.3,1,NO, southwest ,9182.17,IPT2G948,
+18,  male  ,33.535,0,YES, northeast ,34617.84065,2X32E8B2,Smoking habits unclear
+59,  male  ,28.785,0,NO, northwest , $12129.61415,FDRCGFQA,Family history of diabetes
+29,  female  ,26.03,0,NO, northwest , $3736.4647,JVKOSR79,Needs follow-up
+36,  male  ,28.88,3,no, northeast , $6748.5912,0SAGU52T,Check payment history
+33,  male  ,42.46,1,no, southeast , $11326.71487,88W11388,
+58,  male  ,38.0,0,no, southwest , $11365.952,ZJVN2L42,Smoking habits unclear
+44,  female  ,38.95,0,yes, northwest ,42983.4585,8IKBS38V,Family history of diabetes
+53,  male  ,36.1,1,no, southwest , $10085.846,8U66Z3TM,Needs follow-up
+24,  male  ,29.3,0,NO, southwest , $1977.815,3APKSORN,Check payment history
+29,  female  ,35.53,0,no, southeast , $3366.6697,SXOZ6929,
+40,  male  ,22.705,2,no, northeast ,7173.35995,SOSZ74HC,Smoking habits unclear
+51,  male  ,39.7,1,NO, southwest ,9391.346,HMDZ22A8,Family history of diabetes
+64,  male  ,38.19,0,NO, northeast ,14410.9321,AGBNV2C1,Needs follow-up
+19,  female  ,24.51,1,no, northwest , $2709.1119,QVSY03LT,Check payment history
+35,  female  ,38.095,2,NO, northeast ,24915.04626,9UD3ZRH6,
+39,  male  ,26.41,0,YES, northeast , $20149.3229,H2YL4X4U,Smoking habits unclear
+56,  male  ,33.66,4,NO, southeast ,12949.1554,IE24WOMN,Family history of diabetes
+33,  male  ,42.4,5,NO, southwest , $6666.243,FD0WZDMI,Needs follow-up
+42,  male  ,28.31,3,YES, northwest , $32787.45859,L7OA3ZNA,Check payment history
+61,  male  ,33.915,0,no, northeast ,13143.86485,LVRAJ7BG,
+23,  female  ,34.96,3,NO, northwest , $4466.6214,XLJPL1C7,Smoking habits unclear
+43,  male  ,35.31,2,NO, southeast ,18806.14547,YX03UQL3,Family history of diabetes
+48,  male  ,30.78,3,no, northeast ,10141.1362,7CXG8TOC,Needs follow-up
+39,  male  ,26.22,1,no, northwest ,6123.5688,ZFJ32NYO,Check payment history
+40,  female  ,23.37,3,NO, northeast ,8252.2843,UZDW5I0E,
+18,  male  ,28.5,0,no, northeast ,1712.227,QZXXJJ82,Smoking habits unclear
+58,  female  ,32.965,0,NO, northeast , $12430.95335,U8NERT6L,Family history of diabetes
+49,  female  ,42.68,2,NO, southeast ,9800.8882,9H38AMVB,Needs follow-up
+53,  female  ,39.6,1,NO, southeast , $10579.711,QXBC2FQV,Check payment history
+48,  female  ,31.13,0,NO, southeast ,8280.6227,ZLEOO4KU,
+45,  female  ,36.3,2,NO, southeast , $8527.532,O3O1I0BK,Smoking habits unclear
+59,  female  ,35.2,0,no, southeast , $12244.531,LP4XRJKX,Family history of diabetes
+52,  female  ,25.3,2,yes, southeast ,24667.419,OJOC9KXV,Needs follow-up
+26,  female  ,42.4,1,no, southwest ,3410.324,ABEGV1WC,Check payment history
+27,  male  ,33.155,2,NO, northwest ,4058.71245,Z3HJ2KCG,
+48,  female  ,35.91,1,no, northeast ,26392.26029,USXSMX17,Smoking habits unclear
+57,  female  ,28.785,4,no, northeast ,14394.39815,QDCRKWVA,Family history of diabetes
+37,  male  ,46.53,3,NO, southeast , $6435.6237,Q7B5N6Y0,Needs follow-up
+57,  female  ,23.98,1,NO, southeast ,22192.43711,PBE7B3MA,Check payment history
+32,  female  ,31.54,1,no, northeast , $5148.5526,3SJ0SYSP,
+18,  male  ,33.66,0,no, southeast , $1136.3994,WGN3USP8,Smoking habits unclear
+64,  female  ,22.99,0,YES, southeast , $27037.9141,DU407JJ6,Family history of diabetes
+43,  male  ,38.06,2,yes, southeast , $42560.4304,0LUDW5XX,Needs follow-up
+49,  male  ,28.7,1,NO, southwest ,8703.456,22DWECHI,Check payment history
+40,  female  ,32.775,2,YES, northwest , $40003.33225,Y2ATGMNA,
+62,  male  ,32.015,0,YES, northeast , $45710.20785,GMJ6W3GL,Smoking habits unclear
+40,  female  ,29.81,1,NO, southeast , $6500.2359,9W1X8VQ9,Family history of diabetes
+30,  male  ,31.57,3,no, southeast , $4837.5823,0I9SSAUS,Needs follow-up
+29,  female  ,31.16,0,no, northeast , $3943.5954,JOHX5ZVY,Check payment history
+36,  male  ,29.7,0,NO, southeast , $4399.731,T4RWRV5X,
+41,  female  ,31.02,0,NO, southeast ,6185.3208,DNGL7HGU,Smoking habits unclear
+44,  female  ,43.89,2,YES, southeast ,46200.9851,G1IVO1SY,Family history of diabetes
+45,  male  ,21.375,0,no, northwest , $7222.78625,6CWDHS3M,Needs follow-up
+55,  female  ,40.81,3,no, southeast , $12485.8009,5L2TZJ30,Check payment history
+60,  male  ,31.35,3,YES, northwest , $46130.5265,36VZ0PUD,
+56,  male  ,36.1,3,no, southwest , $12363.547,1EAD88NT,Smoking habits unclear
+49,  female  ,23.18,2,no, northwest , $10156.7832,T9L5Y4LS,Family history of diabetes
+21,  female  ,17.4,1,NO, southwest , $2585.269,3X9VA9GZ,Needs follow-up
+19,  male  ,20.3,0,NO, southwest ,1242.26,F47H6V1A,Check payment history
+39,  male  ,35.3,2,yes, southwest , $40103.89,5F2OPAJ9,
+53,  male  ,24.32,0,NO, northwest , $9863.4718,40AOFUTU,Smoking habits unclear
+33,  female  ,18.5,1,no, southwest , $4766.022,5JHNO36S,Family history of diabetes
+53,  male  ,26.41,2,no, northeast ,11244.3769,M6YJWSSY,Needs follow-up
+42,  male  ,26.125,2,NO, northeast ,7729.64575,QMA9KMNA,Check payment history
+40,  male  ,41.69,0,NO, southeast ,5438.7491,WCV68SC4,
+47,  female  ,24.1,1,no, southwest ,26236.57997,OXY6MKRH,Smoking habits unclear
+27,  male  ,31.13,1,yes, southeast , $34806.4677,RM7212RJ,Family history of diabetes
+21,  male  ,27.36,0,NO, northeast ,2104.1134,BU645MYN,Needs follow-up
+47,  male  ,36.2,1,NO, southwest ,8068.185,13ZV7LOJ,Check payment history
+20,  male  ,32.395,1,NO, northwest , $2362.22905,KNCCZK4C,
+24,  male  ,23.655,0,no, northwest , $2352.96845,2O2NYKDC,Smoking habits unclear
+27,  female  ,34.8,1,NO, southwest ,3577.999,TYOKOD14,Family history of diabetes
+26,  female  ,40.185,0,no, northwest , $3201.24515,6CFLFW1J,Needs follow-up
+53,  female  ,32.3,2,NO, northeast , $29186.48236,VWLTD3BZ,Check payment history
+41,  male  ,35.75,1,yes, southeast , $40273.6455,0HN2TWS2,
+56,  male  ,33.725,0,NO, northwest ,10976.24575,8HB4UND9,Smoking habits unclear
+23,  female  ,39.27,2,NO, southeast , $3500.6123,N61O9R3G,Family history of diabetes
+21,  female  ,34.87,0,NO, southeast ,2020.5523,CWL2BV4U,Needs follow-up
+50,  female  ,44.745,0,NO, northeast , $9541.69555,FQ9LD834,Check payment history
+53,  male  ,41.47,0,NO, southeast ,9504.3103,KJC84L30,
+34,  female  ,26.41,1,no, northwest ,5385.3379,4JQZ90HH,Smoking habits unclear
+47,  female  ,29.545,1,NO, northwest ,8930.93455,PIBMNGBJ,Family history of diabetes
+33,  female  ,32.9,2,no, southwest ,5375.038,83Y2WGPG,Needs follow-up
+51,  female  ,38.06,0,yes, southeast ,44400.4064,6Q3ZHLS0,Check payment history
+49,  male  ,28.69,3,no, northwest ,10264.4421,FP5BI70R,
+31,  female  ,30.495,3,no, northeast , $6113.23105,N6XO9IXP,Smoking habits unclear
+36,  female  ,27.74,0,no, northeast , $5469.0066,RZBAA4L7,Family history of diabetes
+18,  male  ,35.2,1,no, southeast , $1727.54,6Y26OP8J,Needs follow-up
+50,  female  ,23.54,2,NO, southeast ,10107.2206,SIK88R5G,Check payment history
+43,  female  ,30.685,2,no, northwest , $8310.83915,Z6MCRK1U,
+20,  male  ,40.47,0,no, northeast ,1984.4533,93EBRPO7,Smoking habits unclear
+24,  female  ,22.6,0,no, southwest , $2457.502,TJQCS6H6,Family history of diabetes
+60,  male  ,28.9,0,NO, southwest ,12146.971,GCIJI77G,Needs follow-up
+49,  female  ,22.61,1,no, northwest ,9566.9909,2JUFU1FH,Check payment history
+60,  male  ,24.32,1,no, northwest , $13112.6048,DVVA1CNQ,
+51,  female  ,36.67,2,no, northwest , $10848.1343,004T6OKH,Smoking habits unclear
+58,  female  ,33.44,0,NO, northwest ,12231.6136,YOU1GGSD,Family history of diabetes
+51,  female  ,40.66,0,no, northeast , $9875.6804,1OWQ2TYE,Needs follow-up
+53,  male  ,36.6,3,NO, southwest ,11264.541,59YJF1GY,Check payment history
+62,  male  ,37.4,0,NO, southwest , $12979.358,KV2A9MTH,
+19,  male  ,35.4,0,no, southwest ,1263.249,4T3WLOCZ,Smoking habits unclear
+50,  female  ,27.075,1,no, northeast , $10106.13425,VFOZ150L,Family history of diabetes
+30,  female  ,39.05,3,YES, southeast ,40932.4295,CTNM0P87,Needs follow-up
+41,  male  ,28.405,1,NO, northwest ,6664.68595,8QX7RXRI,Check payment history
+29,  female  ,21.755,1,YES, northeast ,16657.71745,0Z8WB0XZ,
+18,  female  ,40.28,0,no, northeast , $2217.6012,RZ135D1J,Smoking habits unclear
+41,  female  ,36.08,1,no, southeast ,6781.3542,O6D6PV8X,Family history of diabetes
+35,  male  ,24.42,3,yes, southeast ,19361.9988,W105X0X9,Needs follow-up
+53,  male  ,21.4,1,NO, southwest , $10065.413,10A0EWTN,Check payment history
+24,  female  ,30.1,3,NO, southwest , $4234.927,3EOSF82R,
+48,  female  ,27.265,1,no, northeast , $9447.25035,GN09X5XZ,Smoking habits unclear
+59,  female  ,32.1,3,NO, southwest , $14007.222,EY0D4HZC,Family history of diabetes
+49,  female  ,34.77,1,NO, northwest , $9583.8933,TH7IBWZZ,Needs follow-up
+37,  female  ,38.39,0,YES, southeast ,40419.0191,HV5I7OX8,Check payment history
+26,  male  ,23.7,2,NO, southwest ,3484.331,8HSBLUSV,
+23,  male  ,31.73,3,YES, northeast ,36189.1017,H3WUP4UJ,Smoking habits unclear
+29,  male  ,35.5,2,yes, southwest , $44585.45587,NT4N4BA2,Family history of diabetes
+45,  male  ,24.035,2,no, northeast , $8604.48365,Q80HN20S,Needs follow-up
+27,  male  ,29.15,0,YES, southeast , $18246.4955,AK15RKOJ,Check payment history
+53,  male  ,34.105,0,YES, northeast , $43254.41795,MKZ5NUHA,
+31,  female  ,26.62,0,no, southeast , $3757.8448,Z6JMKH44,Smoking habits unclear
+50,  male  ,26.41,0,NO, northwest ,8827.2099,59RR7RSD,Family history of diabetes
+50,  female  ,30.115,1,NO, northwest , $9910.35985,IVP2HYM0,Needs follow-up
+34,  male  ,27.0,2,no, southwest ,11737.84884,4BVLYEU8,Check payment history
+19,  male  ,21.755,0,no, northwest , $1627.28245,3DE1EKG7,
+47,  female  ,36.0,1,no, southwest , $8556.907,KUM9Q2DI,Smoking habits unclear
+28,  male  ,30.875,0,no, northwest ,3062.50825,QMAK2VR3,Family history of diabetes
+37,  female  ,26.4,0,YES, southeast ,19539.243,OAG3D1D0,Needs follow-up
+21,  male  ,28.975,0,NO, northwest , $1906.35825,1TRY9JZU,Check payment history
+64,  male  ,37.905,0,no, northwest ,14210.53595,2LVOPIX4,
+58,  female  ,22.77,0,NO, southeast ,11833.7823,65H22R2I,Smoking habits unclear
+24,  male  ,33.63,4,NO, northeast , $17128.42608,X3DWC22G,Family history of diabetes
+31,  male  ,27.645,2,no, northeast , $5031.26955,GBQE1LYX,Needs follow-up
+39,  female  ,22.8,3,NO, northeast , $7985.815,VJ9U8MXX,Check payment history
+47,  female  ,27.83,0,YES, southeast , $23065.4207,V69ALIUT,
+30,  male  ,37.43,3,no, northeast ,5428.7277,S7TN9O9J,Smoking habits unclear
+18,  male  ,38.17,0,yes, southeast , $36307.7983,NYBC9E5C,Family history of diabetes
+22,  female  ,34.58,2,no, northeast , $3925.7582,OHFNFZ3G,Needs follow-up
+23,  male  ,35.2,1,no, southwest , $2416.955,8TZ4Y4SB,Check payment history
+33,  male  ,27.1,1,yes, southwest ,19040.876,X2IGP7WK,
+27,  male  ,26.03,0,NO, northeast , $3070.8087,BCEXHEQF,Smoking habits unclear
+45,  female  ,25.175,2,NO, northeast ,9095.06825,00SUJJO6,Family history of diabetes
+57,  female  ,31.825,0,NO, northwest , $11842.62375,5263BH6I,Needs follow-up
+47,  male  ,32.3,1,NO, southwest , $8062.764,X7AZ38TF,Check payment history
+42,  female  ,29.0,1,NO, southwest ,7050.642,HH14Y7V2,
+64,  female  ,39.7,0,NO, southwest ,14319.031,IYJBH099,Smoking habits unclear
+38,  female  ,19.475,2,NO, northwest ,6933.24225,YUYK0K6H,Family history of diabetes
+61,  male  ,36.1,3,NO, southwest , $27941.28758,HON4JNO5,Needs follow-up
+53,  female  ,26.7,2,no, southwest ,11150.78,R44SWB63,Check payment history
+44,  female  ,36.48,0,no, northeast ,12797.20962,4XZ53MM4,
+19,  female  ,28.88,0,YES, northwest , $17748.5062,5U4CXXU6,Smoking habits unclear
+41,  male  ,34.2,2,no, northwest ,7261.741,ZR8CX3KM,Family history of diabetes
+51,  male  ,33.33,3,no, southeast ,10560.4917,B6UVB61C,Needs follow-up
+40,  male  ,32.3,2,NO, northwest ,6986.697,1QJ4F6WD,Check payment history
+45,  male  ,39.805,0,no, northeast ,7448.40395,7OHME652,
+35,  male  ,34.32,3,NO, southeast ,5934.3798,H2NFXHPW,Smoking habits unclear
+53,  male  ,28.88,0,NO, northwest , $9869.8102,4AGSHTPU,Family history of diabetes
+30,  male  ,24.4,3,yes, southwest ,18259.216,N7I7C8JV,Needs follow-up
+18,  male  ,41.14,0,no, southeast , $1146.7966,650ATCCC,Check payment history
+51,  male  ,35.97,1,no, southeast , $9386.1613,4D26O9S6,
+50,  female  ,27.6,1,yes, southwest ,24520.264,4JSQW10T,Smoking habits unclear
+31,  female  ,29.26,1,no, southeast ,4350.5144,VPZHVE9I,Family history of diabetes
+35,  female  ,27.7,3,NO, southwest ,6414.178,TVVPVVKW,Needs follow-up
+60,  male  ,36.955,0,NO, northeast ,12741.16745,SCBB2QWA,Check payment history
+21,  male  ,36.86,0,NO, northwest ,1917.3184,36AFQG5N,
+29,  male  ,22.515,3,no, northeast ,5209.57885,CQ2JLB1K,Smoking habits unclear
+62,  female  ,29.92,0,NO, southeast ,13457.9608,HSP8KLSL,Family history of diabetes
+39,  female  ,41.8,0,no, southeast , $5662.225,8M4SSOY6,Needs follow-up
+19,  male  ,27.6,0,NO, southwest , $1252.407,IIEOCWCC,Check payment history
+22,  female  ,23.18,0,no, northeast ,2731.9122,GGF7Y9LQ,
+53,  male  ,20.9,0,yes, southeast ,21195.818,T469AHXS,Smoking habits unclear
+39,  female  ,,2,no, northwest , $7209.4918,NBJKHBVH,Family history of diabetes
+27,  male  ,28.5,0,yes, northwest , $18310.742,9S08D775,Needs follow-up
+30,  male  ,44.22,2,no, southeast , $4266.1658,AHIQ4UE0,Check payment history
+30,  female  ,22.895,1,NO, northeast , $4719.52405,UEPBBL5C,
+58,  female  ,33.1,0,no, southwest , $11848.141,DNEB8JGT,Smoking habits unclear
+33,  male  ,24.795,0,YES, northeast , $17904.52705,YW11P4NR,Family history of diabetes
+42,  female  ,26.18,1,NO, southeast ,7046.7222,2LZYOGBK,Needs follow-up
+64,  female  ,35.97,0,NO, southeast , $14313.8463,XM2JHO99,Check payment history
+21,  male  ,22.3,1,no, southwest ,2103.08,L0LTZVGZ,
+18,  female  ,42.24,0,yes, southeast , $38792.6856,X258Y2A9,Smoking habits unclear
+23,  male  ,26.51,0,NO, southeast , $1815.8759,1YQ0YW52,Family history of diabetes
+45,  female  ,35.815,0,NO, northwest ,7731.85785,41Z1JVVN,Needs follow-up
+40,  female  ,41.42,1,NO, northwest , $28476.73499,NOFBDI52,Check payment history
+19,  female  ,36.575,0,no, northwest , $2136.88225,8U7RLULA,
+18,  male  ,30.14,0,no, southeast , $1131.5066,LTB65FPI,Smoking habits unclear
+25,  male  ,25.84,1,no, northeast , $3309.7926,BYG3HMEH,Family history of diabetes
+46,  female  ,30.8,3,NO, southwest ,9414.92,1NU64L1V,Needs follow-up
+33,  female  ,42.94,3,NO, northwest ,6360.9936,1LOY6YMP,Check payment history
+54,  male  ,21.01,2,NO, southeast , $11013.7119,FYH3RCQI,
+28,  male  ,22.515,2,NO, northeast ,4428.88785,ZMQRMS2Y,Smoking habits unclear
+36,  male  ,34.43,2,NO, southeast ,5584.3057,9ITZVUYK,Family history of diabetes
+20,  female  ,31.46,0,NO, southeast ,1877.9294,HEZQVVVP,Needs follow-up
+24,  female  ,24.225,0,no, northwest ,2842.76075,ZXEWE4IA,Check payment history
+23,  male  ,37.1,3,NO, southwest , $3597.596,UBUI5SRL,
+47,  female  ,26.125,1,yes, northeast , $23401.30575,ZRU55FDK,Smoking habits unclear
+33,  female  ,35.53,0,yes, northwest ,55135.40209,S89P9SGW,Family history of diabetes
+45,  male  ,33.7,1,no, southwest , $7445.918,508LV6HA,Needs follow-up
+26,  male  ,17.67,0,no, northwest , $2680.9493,JL1PRNKR,Check payment history
+18,  female  ,31.13,0,no, southeast , $1621.8827,6FFUQYCK,
+44,  female  ,29.81,2,no, southeast ,8219.2039,RF4UPLZ5,Smoking habits unclear
+60,  male  ,24.32,0,no, northwest , $12523.6048,2FK55RBX,Family history of diabetes
+64,  female  ,31.825,2,NO, northeast ,16069.08475,U04HLS8D,Needs follow-up
+56,  male  ,31.79,2,yes, southeast , $43813.8661,29Y1CWKY,Check payment history
+36,  male  ,28.025,1,YES, northeast ,20773.62775,9PSPN7BG,
+41,  male  ,30.78,3,YES, northeast , $39597.4072,7HTU9ZGA,Smoking habits unclear
+39,  male  ,21.85,1,no, northwest ,6117.4945,AEIWO3YK,Family history of diabetes
+63,  male  ,33.1,0,no, southwest , $13393.756,QV3RFXHN,Needs follow-up
+36,  female  ,25.84,0,NO, northwest ,5266.3656,OQWWIHC5,Check payment history
+28,  female  ,23.845,2,no, northwest ,4719.73655,70MPELJP,
+58,  male  ,34.39,0,NO, northwest ,11743.9341,18CNJ4TT,Smoking habits unclear
+36,  male  ,33.82,1,no, northwest , $5377.4578,YSDC2QJQ,Family history of diabetes
+42,  male  ,35.97,2,no, southeast ,7160.3303,QYT4LQ5Y,Needs follow-up
+36,  male  ,31.5,0,no, southwest , $4402.233,4CIU9IEJ,Check payment history
+56,  female  ,28.31,0,no, northeast ,11657.7189,KFEPR1EH,
+35,  female  ,23.465,2,NO, northeast , $6402.29135,DPAHZBDC,Smoking habits unclear
+59,  female  ,31.35,0,NO, northwest , $12622.1795,EJETIKFH,Family history of diabetes
+21,  male  ,31.1,0,no, southwest ,1526.312,Z4Z1ZDOT,Needs follow-up
+59,  male  ,24.7,0,NO, northeast , $12323.936,7YEN091S,Check payment history
+23,  female  ,32.78,2,yes, southeast , $36021.0112,3LYTN3ZN,
+57,  female  ,29.81,0,yes, southeast ,27533.9129,8G73QNR2,Smoking habits unclear
+53,  male  ,30.495,0,NO, northeast , $10072.05505,VI2JUTVF,Family history of diabetes
+60,  female  ,32.45,0,YES, southeast ,45008.9555,GUKSWAZI,Needs follow-up
+51,  female  ,34.2,1,NO, southwest ,9872.701,MBO8X4SM,Check payment history
+23,  male  ,50.38,1,no, southeast ,2438.0552,UVVV2JN8,
+27,  female  ,24.1,0,no, southwest , $2974.126,CNEE1WX9,Smoking habits unclear
+55,  male  ,32.775,0,no, northwest , $10601.63225,Q6NGFXA7,Family history of diabetes
+37,  female  ,30.78,0,yes, northeast , $37270.1512,NO6WT48J,Needs follow-up
+61,  male  ,32.3,2,no, northwest ,14119.62,4D7NDU97,Check payment history
+46,  female  ,35.53,0,YES, northeast , $42111.6647,3KKM2OYQ,
+53,  female  ,23.75,2,NO, northeast , $11729.6795,OHFQ58BX,Smoking habits unclear
+49,  female  ,23.845,3,YES, northeast ,24106.91255,Y15M9KP0,Family history of diabetes
+20,  female  ,29.6,0,no, southwest , $1875.344,HM62GMPM,Needs follow-up
+48,  female  ,33.11,0,yes, southeast , $40974.1649,3NGR6MT3,Check payment history
+25,  male  ,24.13,0,yes, northwest ,15817.9857,O5I5LWIE,
+25,  female  ,32.23,1,NO, southeast ,18218.16139,X4OOTHJJ,Smoking habits unclear
+57,  male  ,28.1,0,no, southwest , $10965.446,77JGGPKT,Family history of diabetes
+37,  female  ,47.6,2,yes, southwest ,46113.511,NKN9T68P,Needs follow-up
+38,  female  ,28.0,3,no, southwest ,7151.092,HW7CIO9Z,Check payment history
+55,  female  ,33.535,2,NO, northwest , $12269.68865,7BOZDQ5A,
+36,  female  ,19.855,0,NO, northeast , $5458.04645,S9E6YQ5K,Smoking habits unclear
+51,  male  ,25.4,0,NO, southwest ,8782.469,3HPPRSJ3,Family history of diabetes
+40,  male  ,29.9,2,NO, southwest , $6600.361,QJUEWEPI,Needs follow-up
+18,  male  ,37.29,0,no, southeast ,1141.4451,ZQNUE9RK,Check payment history
+57,  male  ,43.7,1,NO, southwest , $11576.13,IB2NF00D,
+61,  male  ,23.655,0,no, northeast , $13129.60345,EPAP5I32,Smoking habits unclear
+25,  female  ,24.3,3,no, southwest ,4391.652,GKRRWSK3,Family history of diabetes
+50,  male  ,36.2,0,no, southwest ,8457.818,27IZHMAL,Needs follow-up
+26,  female  ,29.48,1,NO, southeast ,3392.3652,V4991KQG,Check payment history
+42,  male  ,24.86,0,no, southeast ,5966.8874,QB4EAFBF,
+43,  male  ,30.1,1,no, southwest , $6849.026,ORXNVV50,Smoking habits unclear
+44,  male  ,21.85,3,NO, northeast ,8891.1395,MR5NESDG,Family history of diabetes
+23,  female  ,28.12,0,NO, northwest ,2690.1138,YPKRQOOI,Needs follow-up
+49,  female  ,27.1,1,no, southwest , $26140.3603,DHVVIYA6,Check payment history
+33,  male  ,33.44,5,no, southeast , $6653.7886,09CSM3VH,
+41,  male  ,28.8,1,no, southwest ,6282.235,0F792V5P,Smoking habits unclear
+37,  female  ,29.5,2,no, southwest , $6311.952,DOVQNWPR,Family history of diabetes
+22,  male  ,34.8,3,no, southwest ,3443.064,6V4W3MAF,Needs follow-up
+23,  male  ,27.36,1,NO, northwest , $2789.0574,3AH7XBUM,Check payment history
+21,  female  ,22.135,0,no, northeast ,2585.85065,7DO5PHR5,
+51,  female  ,37.05,3,YES, northeast , $46255.1125,YJA2V3S9,Smoking habits unclear
+25,  male  ,26.695,4,NO, northwest ,4877.98105,MA2JHTHO,Family history of diabetes
+32,  male  ,28.93,1,yes, southeast , $19719.6947,OS0Y2NZF,Needs follow-up
+57,  male  ,28.975,0,YES, northeast ,27218.43725,ZG8T5PD7,Check payment history
+36,  female  ,30.02,0,no, northwest ,5272.1758,YBNTZ6UC,
+22,  male  ,39.5,0,no, southwest , $1682.597,4W7N3O6Y,Smoking habits unclear
+57,  male  ,33.63,1,no, northwest , $11945.1327,WV1TWC5Q,Family history of diabetes
+64,  female  ,26.885,0,yes, northwest , $29330.98315,APEDLAAM,Needs follow-up
+36,  female  ,29.04,4,no, southeast , $7243.8136,16QOHJ3Q,Check payment history
+54,  male  ,24.035,0,NO, northeast ,10422.91665,N0FRJ05Q,
+47,  male  ,38.94,2,YES, southeast ,44202.6536,MT5VRVQE,Smoking habits unclear
+62,  male  ,32.11,0,no, northeast ,13555.0049,KNIN9EYN,Family history of diabetes
+61,  female  ,44.0,0,NO, southwest , $13063.883,OHZR3DCY,Needs follow-up
+43,  female  ,20.045,2,YES, northeast , $19798.05455,LWB7ILF8,Check payment history
+19,  male  ,25.555,1,NO, northwest , $2221.56445,L0OT068C,
+18,  female  ,40.26,0,no, southeast , $1634.5734,YXXHLYKA,Smoking habits unclear
+19,  female  ,22.515,0,no, northwest , $2117.33885,ES6MYSJB,Family history of diabetes
+49,  male  ,22.515,0,no, northeast , $8688.85885,XULNL4RW,Needs follow-up
+60,  male  ,40.92,0,YES, southeast , $48673.5588,K8QFQM2W,Check payment history
+26,  male  ,27.265,3,NO, northeast ,4661.28635,5Q2QWT8K,
+49,  male  ,36.85,0,NO, southeast , $8125.7845,XRSZKRXB,Smoking habits unclear
+60,  female  ,35.1,0,no, southwest , $12644.589,IOBYJ2DE,Family history of diabetes
+26,  female  ,29.355,2,NO, northeast , $4564.19145,YWQCQQ98,Needs follow-up
+27,  male  ,32.585,3,NO, northeast , $4846.92015,KWRI19YR,Check payment history
+44,  female  ,32.34,1,NO, southeast ,7633.7206,GL9L91KX,
+63,  male  ,39.8,3,no, southwest , $15170.069,X4UK87VA,Smoking habits unclear
+32,  female  ,24.6,0,yes, southwest ,17496.306,MN8OK0N1,Family history of diabetes
+22,  male  ,28.31,1,no, northwest ,2639.0429,1VFNKRP7,Needs follow-up
+18,  male  ,31.73,0,YES, northeast ,33732.6867,JBL3DS7J,Check payment history
+59,  female  ,26.695,3,no, northwest ,14382.70905,AHNHYVJ1,
+44,  female  ,27.5,1,no, southwest ,7626.993,108366HM,Smoking habits unclear
+33,  male  ,,2,NO, northwest ,5257.50795,9WTBQZ7H,Family history of diabetes
+24,  female  ,33.99,0,no, southeast , $2473.3341,3A2SB6LS,Needs follow-up
+43,  female  ,26.885,0,yes, northwest ,21774.32215,MQO1HWSX,Check payment history
+45,  male  ,22.895,0,YES, northeast , $35069.37452,17JZKODO,
+61,  female  ,28.2,0,no, southwest ,13041.921,4ZFBS35X,Smoking habits unclear
+35,  female  ,34.21,1,no, southeast ,5245.2269,QNW1X6YK,Family history of diabetes
+62,  female  ,25.0,0,NO, southwest ,13451.122,7626IGLT,Needs follow-up
+62,  female  ,33.2,0,no, southwest , $13462.52,FMLLJIP9,Check payment history
+38,  male  ,31.0,1,NO, southwest ,5488.262,RQ5OW7U3,
+34,  male  ,35.815,0,no, northwest ,4320.41085,8LNL2N9X,Smoking habits unclear
+43,  male  ,23.2,0,NO, southwest , $6250.435,FVEVVOO2,Family history of diabetes
+50,  male  ,32.11,2,no, northeast , $25333.33284,4NA8KQVD,Needs follow-up
+19,  female  ,23.4,2,NO, southwest ,2913.569,KP0NV3P7,Check payment history
+57,  female  ,20.1,1,no, southwest , $12032.326,P8D3N4YK,
+62,  female  ,39.16,0,NO, southeast , $13470.8044,PJ5JBVQW,Smoking habits unclear
+41,  male  ,34.21,1,no, southeast ,6289.7549,EXVKCUDU,Family history of diabetes
+26,  male  ,46.53,1,NO, southeast ,2927.0647,2MN0DEJG,Needs follow-up
+39,  female  ,32.5,1,NO, southwest , $6238.298,8UJ5RUQ1,Check payment history
+46,  male  ,25.8,5,no, southwest , $10096.97,DJ6A1T2A,
+45,  female  ,35.3,0,NO, southwest ,7348.142,XKVU8XMV,Smoking habits unclear
+32,  male  ,37.18,2,no, southeast ,4673.3922,SMH0AL2S,Family history of diabetes
+59,  female  ,27.5,0,NO, southwest ,12233.828,C63OCB3P,Needs follow-up
+44,  male  ,29.735,2,no, northeast ,32108.66282,6E3OWFQC,Check payment history
+39,  female  ,24.225,5,NO, northwest , $8965.79575,U5QUF9CX,
+18,  male  ,26.18,2,no, southeast , $2304.0022,W89S84K1,Smoking habits unclear
+53,  male  ,29.48,0,no, southeast , $9487.6442,0RRP55GC,Family history of diabetes
+18,  male  ,23.21,0,NO, southeast , $1121.8739,0HT5ORFU,Needs follow-up
+50,  female  ,46.09,1,NO, southeast ,9549.5651,AOPK5SQZ,Check payment history
+18,  female  ,40.185,0,no, northeast , $2217.46915,5THH5CAC,
+19,  male  ,22.61,0,no, northwest ,1628.4709,NHKXJCT7,Smoking habits unclear
+62,  male  ,39.93,0,NO, southeast , $12982.8747,6I84PNNF,Family history of diabetes
+56,  female  ,35.8,1,NO, southwest ,11674.13,XHP7QP13,Needs follow-up
+42,  male  ,35.8,2,no, southwest ,7160.094,LMI5D291,Check payment history
+37,  male  ,34.2,1,yes, northeast ,39047.285,ZYRTL9FL,
+42,  male  ,31.255,0,no, northwest , $6358.77645,HCXABORE,Smoking habits unclear
+25,  male  ,29.7,3,YES, southwest ,19933.458,S7CVYC84,Family history of diabetes
+57,  male  ,18.335,0,NO, northeast , $11534.87265,B1H1IHFV,Needs follow-up
+51,  male  ,42.9,2,YES, southeast , $47462.894,S9BBZ1HT,Check payment history
+30,  female  ,28.405,1,no, northwest ,4527.18295,BN62AN6R,
+44,  male  ,30.2,2,YES, southwest ,38998.546,X5GCIOO2,Smoking habits unclear
+34,  male  ,27.835,1,YES, northwest ,20009.63365,K6R1R1RU,Family history of diabetes
+31,  male  ,39.49,1,no, southeast , $3875.7341,OS4M0MU8,Needs follow-up
+54,  male  ,30.8,1,YES, southeast , $41999.52,GS6MPPCQ,Check payment history
+24,  male  ,26.79,1,no, northwest ,12609.88702,32PAB0B0,
+43,  male  ,34.96,1,YES, northeast ,41034.2214,KD5NLFHH,Smoking habits unclear
+48,  male  ,36.67,1,no, northwest ,28468.91901,DOR1ZB22,Family history of diabetes
+19,  female  ,39.615,1,no, northwest , $2730.10785,CXADF1JF,Needs follow-up
+29,  female  ,25.9,0,no, southwest , $3353.284,0KWWCNU3,Check payment history
+63,  female  ,35.2,1,no, southeast , $14474.675,JU0599C1,
+46,  male  ,24.795,3,NO, northeast , $9500.57305,D670JA8C,Smoking habits unclear
+52,  male  ,36.765,2,NO, northwest , $26467.09737,EGV3RGSH,Family history of diabetes
+35,  male  ,27.1,1,no, southwest , $4746.344,CSTUEAKB,Needs follow-up
+51,  male  ,24.795,2,YES, northwest ,23967.38305,0R9YC8Z1,Check payment history
+44,  male  ,25.365,1,NO, northwest , $7518.02535,6CGL5O7B,
+21,  male  ,25.745,2,NO, northeast ,3279.86855,91CWR7QX,Smoking habits unclear
+39,  female  ,34.32,5,NO, southeast , $8596.8278,9F137JOO,Family history of diabetes
+50,  female  ,28.16,3,NO, southeast , $10702.6424,2F4P5P0X,Needs follow-up
+34,  female  ,23.56,0,NO, northeast , $4992.3764,H2953U06,Check payment history
+22,  female  ,20.235,0,NO, northwest , $2527.81865,ZHB38HRW,
+19,  female  ,40.5,0,no, southwest ,1759.338,I4BZS0DK,Smoking habits unclear
+26,  male  ,35.42,0,NO, southeast ,2322.6218,B8R8QAKE,Family history of diabetes
+29,  male  ,22.895,0,yes, northeast , $16138.76205,Y5YEHMBL,Needs follow-up
+48,  male  ,40.15,0,NO, southeast , $7804.1605,IYKYYQ7N,Check payment history
+26,  male  ,29.15,1,NO, southeast , $2902.9065,9O9FKS46,
+45,  female  ,39.995,3,NO, northeast ,9704.66805,1OWLQJUC,Smoking habits unclear
+36,  female  ,29.92,0,NO, southeast ,4889.0368,MIQASL2L,Family history of diabetes
+54,  male  ,25.46,1,no, northeast , $25517.11363,EZTULG38,Needs follow-up
+34,  male  ,21.375,0,NO, northeast , $4500.33925,P142UMPY,Check payment history
+31,  male  ,25.9,3,YES, southwest , $19199.944,3W9XTKV6,
+27,  female  ,30.59,1,no, northeast ,16796.41194,2844AXFP,Smoking habits unclear
+20,  male  ,30.115,5,no, northeast , $4915.05985,IF70HOVP,Family history of diabetes
+44,  female  ,25.8,1,no, southwest , $7624.63,Z8IVYI4N,Needs follow-up
+43,  male  ,30.115,3,NO, northwest ,8410.04685,T82XDHPV,Check payment history
+45,  female  ,27.645,1,NO, northwest ,28340.18885,B91SSA3T,
+34,  male  ,34.675,0,NO, northeast ,4518.82625,4XOO528E,Smoking habits unclear
+24,  female  ,20.52,0,YES, northeast ,14571.8908,R4BBQZPM,Family history of diabetes
+26,  female  ,19.8,1,no, southwest , $3378.91,21IV4K4P,Needs follow-up
+38,  female  ,27.835,2,NO, northeast ,7144.86265,EFR4BV2Z,Check payment history
+50,  female  ,31.6,2,NO, southwest , $10118.424,9IKBC68C,
+38,  male  ,28.27,1,no, southeast ,5484.4673,IPQ1RECY,Smoking habits unclear
+27,  female  ,20.045,3,YES, northwest ,16420.49455,PUPCNGAA,Family history of diabetes
+39,  female  ,23.275,3,NO, northeast , $7986.47525,MYK1F1L8,Needs follow-up
+39,  female  ,34.1,3,no, southwest , $7418.522,55XNO1YH,Check payment history
+63,  female  ,36.85,0,NO, southeast , $13887.9685,FWQCNYIC,
+33,  female  ,36.29,3,no, northeast ,6551.7501,SBTDQYYK,Smoking habits unclear
+36,  female  ,26.885,0,NO, northwest ,5267.81815,EQ5QMH8V,Family history of diabetes
+30,  male  ,22.99,2,yes, northwest ,17361.7661,8SK2N2XR,Needs follow-up
+24,  male  ,32.7,0,yes, southwest , $34472.841,9MWGYBAY,Check payment history
+24,  male  ,25.8,0,NO, southwest , $1972.95,P1T2I5MN,
+48,  male  ,29.6,0,no, southwest ,21232.18226,ZWS04W55,Smoking habits unclear
+47,  male  ,19.19,1,NO, northeast , $8627.5411,IBBSX1PI,Family history of diabetes
+29,  male  ,31.73,2,no, northwest , $4433.3877,LGRIOBCK,Needs follow-up
+28,  male  ,29.26,2,NO, northeast ,4438.2634,BWVV4UUC,Check payment history
+47,  male  ,28.215,3,YES, northwest , $24915.22085,WWBL4X1S,
+25,  male  ,24.985,2,NO, northeast , $23241.47453,XL58XL68,Smoking habits unclear
+51,  male  ,27.74,1,no, northeast ,9957.7216,VJZBAII7,Family history of diabetes
+48,  female  ,22.8,0,NO, southwest , $8269.044,O98XP80O,Needs follow-up
+43,  male  ,20.13,2,yes, southeast , $18767.7377,6775BXTU,Check payment history
+61,  female  ,33.33,4,no, southeast ,36580.28216,5030BH3W,
+48,  male  ,32.3,1,NO, northwest , $8765.249,FSSK0L6F,Smoking habits unclear
+38,  female  ,27.6,0,no, southwest , $5383.536,DA5YXDIG,Family history of diabetes
+59,  male  ,25.46,0,NO, northwest , $12124.9924,VME4M6CA,Needs follow-up
+19,  female  ,24.605,1,no, northwest , $2709.24395,6FSK7U8X,Check payment history
+26,  female  ,34.2,2,NO, southwest , $3987.926,FS7BFP2Q,
+54,  female  ,35.815,3,no, northwest , $12495.29085,WQ1I2Q2L,Smoking habits unclear
+21,  female  ,32.68,2,NO, northwest ,26018.95052,7T3H7IB9,Family history of diabetes
+51,  male  ,37.0,0,no, southwest ,8798.593,2B6FWM0R,Needs follow-up
+22,  female  ,31.02,3,yes, southeast ,35595.5898,K6KI6IAI,Check payment history
+47,  male  ,36.08,1,yes, southeast ,42211.1382,WR1AAI6C,
+18,  male  ,23.32,1,NO, southeast , $1711.0268,VHRINIB8,Smoking habits unclear
+47,  female  ,45.32,1,no, southeast , $8569.8618,G873LF13,Family history of diabetes
+21,  female  ,34.6,0,NO, southwest ,2020.177,F71EFNEH,Needs follow-up
+19,  male  ,26.03,1,yes, northwest , $16450.8947,2W1YNV51,Check payment history
+23,  male  ,18.715,0,no, northwest , $21595.38229,YB84XPDU,
+54,  male  ,31.6,0,NO, southwest , $9850.432,HIMR4H74,Smoking habits unclear
+37,  female  ,17.29,2,NO, northeast , $6877.9801,2258P0YU,Family history of diabetes
+46,  female  ,23.655,1,YES, northwest , $21677.28345,WZOZT74X,Needs follow-up
+55,  female  ,35.2,0,yes, southeast ,44423.803,2YNJBDN5,Check payment history
+30,  female  ,27.93,0,NO, northeast , $4137.5227,15IG3N3J,
+18,  male  ,21.565,0,YES, northeast , $13747.87235,LP8554TX,Smoking habits unclear
+61,  male  ,38.38,0,no, northwest , $12950.0712,0NEPDS2C,Family history of diabetes
+54,  female  ,23.0,3,no, southwest ,12094.478,I9JHPIFH,Needs follow-up
+22,  male  ,37.07,2,YES, southeast , $37484.4493,34WBS4BO,Check payment history
+45,  female  ,30.495,1,YES, northwest , $39725.51805,IB87SQGO,
+22,  male  ,28.88,0,no, northeast , $2250.8352,QB5F4QO4,Smoking habits unclear
+19,  male  ,27.265,2,no, northwest , $22493.65964,GAA1VU4D,Family history of diabetes
+35,  female  ,28.025,0,YES, northwest , $20234.85475,3PXA6F7H,Needs follow-up
+18,  male  ,23.085,0,no, northeast , $1704.70015,G166F7Z2,Check payment history
+20,  male  ,30.685,0,yes, northeast ,33475.81715,YRF8MLCW,
+28,  female  ,25.8,0,no, southwest , $3161.454,6XLZMXEZ,Smoking habits unclear
+55,  male  ,35.245,1,NO, northeast ,11394.06555,05ZRFSAR,Family history of diabetes
+43,  female  ,24.7,2,YES, northwest , $21880.82,7C0FO5EZ,Needs follow-up
+43,  female  ,25.08,0,no, northeast ,7325.0482,HYZU2IJT,Check payment history
+22,  male  ,52.58,1,YES, southeast , $44501.3982,7FUG04MI,
+25,  female  ,22.515,1,NO, northwest , $3594.17085,Z17DIHYR,Smoking habits unclear
+49,  male  ,30.9,0,yes, southwest ,39727.614,5IU9PKQK,Family history of diabetes
+44,  female  ,36.955,1,NO, northwest ,8023.13545,4Z3ZEZ75,Needs follow-up
+64,  male  ,26.41,0,NO, northeast , $14394.5579,JA4MGFT0,Check payment history
+49,  male  ,29.83,1,no, northeast , $9288.0267,FFNKHKEH,
+47,  male  ,29.8,3,yes, southwest ,25309.489,R897LFGN,Smoking habits unclear
+27,  female  ,21.47,0,NO, northwest ,3353.4703,N9RHH79C,Family history of diabetes
+55,  male  ,27.645,0,no, northwest , $10594.50155,6N8YL3YQ,Needs follow-up
+48,  female  ,28.9,0,NO, southwest , $8277.523,8GPZI4HD,Check payment history
+45,  female  ,31.79,0,NO, southeast , $17929.30337,HWD015MR,
+24,  female  ,39.49,0,no, southeast ,2480.9791,8B5WWBZ6,Smoking habits unclear
+32,  male  ,33.82,1,no, northwest ,4462.7218,XGYWB4JO,Family history of diabetes
+24,  male  ,32.01,0,NO, southeast , $1981.5819,UYQLO141,Needs follow-up
+57,  male  ,27.94,1,no, southeast , $11554.2236,UACT5B5K,Check payment history
+59,  male  ,41.14,1,YES, southeast , $48970.2476,YINR3YVZ,
+36,  male  ,28.595,3,NO, northwest , $6548.19505,NNDSJZCI,Smoking habits unclear
+29,  female  ,25.6,4,no, southwest ,5708.867,7O07R9LA,Family history of diabetes
+42,  female  ,25.3,1,no, southwest ,7045.499,YEIRGW7Z,Needs follow-up
+48,  male  ,37.29,2,NO, southeast , $8978.1851,1SO994O1,Check payment history
+39,  male  ,42.655,0,no, northeast , $5757.41345,AY1LKKRD,
+63,  male  ,21.66,1,NO, northwest , $14349.8544,I79UTM32,Smoking habits unclear
+54,  female  ,31.9,1,NO, southeast ,10928.849,7JEMHX85,Family history of diabetes
+37,  male  ,37.07,1,yes, southeast , $39871.7043,LBAJS3E4,Needs follow-up
+63,  male  ,31.445,0,NO, northeast ,13974.45555,N8YL9W24,Check payment history
+21,  male  ,31.255,0,NO, northwest ,1909.52745,ECQM1H4R,
+54,  female  ,28.88,2,no, northeast ,12096.6512,GJ4K8UKE,Smoking habits unclear
+60,  female  ,18.335,0,NO, northeast ,13204.28565,0TSPC38X,Family history of diabetes
+32,  female  ,29.59,1,no, southeast ,4562.8421,W3CAC4PA,Needs follow-up
+47,  female  ,32.0,1,no, southwest , $8551.347,FOPIM82Q,Check payment history
+21,  male  ,26.03,0,no, northeast , $2102.2647,41J0BFEJ,
+28,  male  ,31.68,0,yes, southeast ,34672.1472,F1514E6R,Smoking habits unclear
+63,  male  ,33.66,3,NO, southeast , $15161.5344,2ZVD438E,Family history of diabetes
+18,  male  ,21.78,2,NO, southeast ,11884.04858,5URL56W2,Needs follow-up
+32,  male  ,27.835,1,NO, northwest , $4454.40265,02O6Z24F,Check payment history
+38,  male  ,19.95,1,no, northwest , $5855.9025,GJBJ5AGF,
+32,  male  ,31.5,1,no, southwest ,4076.497,QRDY3NWO,Smoking habits unclear
+62,  female  ,30.495,2,no, northwest ,15019.76005,CCA7EHN2,Family history of diabetes
+39,  female  ,18.3,5,YES, southwest ,19023.26,CKJLZTPG,Needs follow-up
+55,  male  ,28.975,0,NO, northeast ,10796.35025,ZKRSR06Y,Check payment history
+57,  male  ,31.54,0,no, northwest ,11353.2276,5621EKW1,
+52,  male  ,47.74,1,no, southeast ,9748.9106,OHTTM3YX,Smoking habits unclear
+56,  male  ,22.1,0,no, southwest ,10577.087,SPI8K0N9,Family history of diabetes
+47,  male  ,36.19,0,YES, southeast , $41676.0811,HVL06HOP,Needs follow-up
+55,  female  ,29.83,0,NO, northeast , $11286.5387,LQBDIF74,Check payment history
+23,  male  ,32.7,3,NO, southwest , $3591.48,QSA57K4D,
+22,  female  ,30.4,0,YES, northwest , $33907.548,YW1GL2X6,Smoking habits unclear
+50,  female  ,33.7,4,no, southwest ,11299.343,8Q8SV2IJ,Family history of diabetes
+18,  female  ,31.35,4,no, northeast ,4561.1885,NV5A8WFS,Needs follow-up
+51,  female  ,34.96,2,yes, northeast , $44641.1974,543ISH1L,Check payment history
+22,  male  ,33.77,0,NO, southeast , $1674.6323,PZTMKPI8,
+52,  female  ,30.875,0,NO, northeast ,23045.56616,UMF5CD33,Smoking habits unclear
+25,  female  ,33.99,1,no, southeast ,3227.1211,V0SN7A8Y,Family history of diabetes
+33,  female  ,19.095,2,yes, northeast ,16776.30405,KGC0IZWY,Needs follow-up
+53,  male  ,28.6,3,no, southwest ,11253.421,FWQMCZU5,Check payment history
+29,  male  ,38.94,1,NO, southeast ,3471.4096,N1UJ48WP,
+58,  male  ,36.08,0,no, southeast , $11363.2832,ORHY6ALB,Smoking habits unclear
+37,  male  ,29.8,0,NO, southwest ,20420.60465,KBC5880W,Family history of diabetes
+54,  female  ,31.24,0,NO, southeast , $10338.9316,1S10XX3T,Needs follow-up
+49,  female  ,29.925,0,no, northwest ,8988.15875,3CZVQIPX,Check payment history
+50,  female  ,26.22,2,no, northwest , $10493.9458,NF19P8VX,
+26,  male  ,30.0,1,no, southwest , $2904.088,ZP518I4N,Smoking habits unclear
+45,  male  ,20.35,3,NO, southeast ,8605.3615,S3E08H4W,Family history of diabetes
+54,  female  ,32.3,1,no, northeast , $11512.405,ZXM7FHIO,Needs follow-up
+38,  male  ,38.39,3,yes, southeast , $41949.2441,S2G21UVX,Check payment history
+48,  female  ,25.85,3,yes, southeast ,24180.9335,YCOAF1W5,
+28,  female  ,26.315,3,no, northwest , $5312.16985,9KXCLASW,Smoking habits unclear
+23,  male  ,24.51,0,NO, northeast , $2396.0959,D5BAEEH2,Family history of diabetes
+55,  male  ,32.67,1,no, southeast ,10807.4863,QVX30M44,Needs follow-up
+41,  male  ,29.64,5,NO, northeast ,9222.4026,HRN79LIA,Check payment history
+25,  male  ,33.33,2,YES, southeast ,36124.5737,G0D1HFWW,
+33,  male  ,35.75,1,YES, southeast , $38282.7495,JA2G8V5T,Smoking habits unclear
+30,  female  ,19.95,3,no, northwest , $5693.4305,OG3LQDPK,Family history of diabetes
+23,  female  ,31.4,0,YES, southwest ,34166.273,SOH0QVXL,Needs follow-up
+46,  male  ,38.17,2,NO, southeast , $8347.1643,RLG7P14U,Check payment history
+53,  female  ,36.86,3,yes, northwest , $46661.4424,AJAX72YU,
+27,  female  ,32.395,1,NO, northeast , $18903.49141,38XBAISZ,Smoking habits unclear
+23,  female  ,42.75,1,yes, northeast , $40904.1995,TUKWD9E1,Family history of diabetes
+63,  female  ,25.08,0,NO, northwest , $14254.6082,KWGQM37H,Needs follow-up
+55,  male  ,29.9,0,NO, southwest ,10214.636,BJ6W0BED,Check payment history
+35,  female  ,35.86,2,no, southeast , $5836.5204,P2WANAS2,
+34,  male  ,32.8,1,NO, southwest , $14358.36437,3CZMVQDP,Smoking habits unclear
+19,  female  ,18.6,0,no, southwest ,1728.897,27TS4DP2,Family history of diabetes
+39,  female  ,23.87,5,no, southeast , $8582.3023,I0ZJ9H8U,Needs follow-up
+27,  male  ,45.9,2,NO, southwest ,3693.428,NNUOO79P,Check payment history
+57,  male  ,40.28,0,no, northeast ,20709.02034,1DR85JAK,
+52,  female  ,18.335,0,no, northwest ,9991.03765,5RXJX9GJ,Smoking habits unclear
+28,  male  ,33.82,0,no, northwest ,19673.33573,JINF1H59,Family history of diabetes
+50,  female  ,28.12,3,no, northwest ,11085.5868,ILPHKQ0E,Needs follow-up
+44,  female  ,25.0,1,no, southwest , $7623.518,B9X4UALK,Check payment history
+26,  female  ,22.23,0,NO, northwest ,3176.2877,Q31WSWCG,
+33,  male  ,30.25,0,no, southeast , $3704.3545,R2HSXQWT,Smoking habits unclear
+19,  female  ,32.49,0,YES, northwest ,36898.73308,HOURRG6E,Family history of diabetes
+50,  male  ,37.07,1,NO, southeast ,9048.0273,4E67YOOT,Needs follow-up
+41,  female  ,32.6,3,NO, southwest , $7954.517,KOPMNFQA,Check payment history
+52,  female  ,24.86,0,NO, southeast ,27117.99378,D5RVFQWH,
+39,  male  ,32.34,2,no, southeast ,6338.0756,J32BQDW2,Smoking habits unclear
+50,  male  ,32.3,2,NO, southwest , $9630.397,FF6IMB3C,Family history of diabetes
+52,  male  ,32.775,3,no, northwest ,11289.10925,1ZZWP1AT,Needs follow-up
+60,  male  ,32.8,0,YES, southwest ,52590.82939,CGCCZ9TL,Check payment history
+20,  female  ,31.92,0,no, northwest ,2261.5688,EYIKL22M,
+55,  male  ,21.5,1,no, southwest ,10791.96,BH0DAJWD,Smoking habits unclear
+42,  male  ,34.1,0,NO, southwest ,5979.731,1US875AO,Family history of diabetes
+18,  female  ,30.305,0,no, northeast , $2203.73595,MDYFZZE0,Needs follow-up
+58,  female  ,36.48,0,no, northwest , $12235.8392,3JDSPTKN,Check payment history
+43,  female  ,32.56,3,YES, southeast , $40941.2854,SZZYYIBO,
+35,  female  ,35.815,1,no, northwest ,5630.45785,0ISKVWF9,Smoking habits unclear
+48,  female  ,27.93,4,no, northwest , $11015.1747,OFRCQAA4,Family history of diabetes
+36,  female  ,22.135,3,no, northeast ,7228.21565,R76USYBZ,Needs follow-up
+19,  male  ,44.88,0,YES, southeast ,39722.7462,RRP6917F,Check payment history
+23,  female  ,23.18,2,no, northwest ,14426.07385,5LZJXKYI,
+20,  female  ,30.59,0,NO, northeast , $2459.7201,7IZCIZUJ,Smoking habits unclear
+32,  female  ,41.1,0,no, southwest ,3989.841,UID5VEYH,Family history of diabetes
+43,  female  ,34.58,1,NO, northwest , $7727.2532,7T7458IN,Needs follow-up
+34,  male  ,42.13,2,NO, southeast ,5124.1887,TSF65K7I,Check payment history
+30,  male  ,38.83,1,no, southeast , $18963.17192,FHXFZB5O,
+18,  female  ,28.215,0,NO, northeast , $2200.83085,MQ21KS7R,Smoking habits unclear
+41,  female  ,28.31,1,no, northwest , $7153.5539,27B79S9K,Family history of diabetes
+35,  female  ,26.125,0,no, northeast , $5227.98875,F0BZAD3S,Needs follow-up
+57,  male  ,40.37,0,NO, southeast , $10982.5013,7MQ33KMM,Check payment history
+29,  female  ,24.6,2,no, southwest ,4529.477,NZW52UZG,
+32,  male  ,35.2,2,no, southwest ,4670.64,MNW1OA5V,Smoking habits unclear
+37,  female  ,34.105,1,NO, northwest , $6112.35295,RJZUSKP8,Family history of diabetes
+18,  male  ,27.36,1,YES, northeast , $17178.6824,DK7SF8QS,Needs follow-up
+43,  female  ,26.7,2,yes, southwest ,22478.6,32X5UKEF,Check payment history
+56,  female  ,41.91,0,NO, southeast ,11093.6229,NJ24740K,
+38,  male  ,29.26,2,NO, northwest ,6457.8434,FQD6A8L2,Smoking habits unclear
+29,  male  ,32.11,2,no, northwest , $4433.9159,A7LWX43N,Family history of diabetes
+22,  female  ,27.1,0,no, southwest ,2154.361,TS0DLM7S,Needs follow-up
+52,  female  ,24.13,1,YES, northwest ,23887.6627,NTFHV7XB,Check payment history
+40,  female  ,27.4,1,NO, southwest , $6496.886,QO72Q0TH,
+23,  female  ,34.865,0,NO, northeast ,2899.48935,I9HM1RGB,Smoking habits unclear
+31,  male  ,29.81,0,YES, southeast , $19350.3689,WHVAQGCB,Family history of diabetes
+42,  female  ,41.325,1,no, northeast ,7650.77375,KIOVS2X6,Needs follow-up
+24,  female  ,29.925,0,no, northwest ,2850.68375,L3MRLWUP,Check payment history
+25,  female  ,30.3,0,no, southwest ,2632.992,6SJPB7HV,
+48,  female  ,27.36,1,no, northeast , $9447.3824,0OV14ZGV,Smoking habits unclear
+23,  female  ,28.49,1,YES, southeast ,18328.2381,R082IX92,Family history of diabetes
+45,  male  ,23.56,2,NO, northeast ,8603.8234,A5OD2CQR,Needs follow-up
+20,  male  ,35.625,3,yes, northwest , $37465.34375,WFKPWL95,Check payment history
+62,  female  ,32.68,0,NO, northwest ,13844.7972,E2SAW1QC,
+43,  female  ,25.27,1,yes, northeast , $21771.3423,GANFRK2R,Smoking habits unclear
+23,  female  ,28.0,0,no, southwest , $13126.67745,DDCSSU94,Family history of diabetes
+31,  female  ,32.775,2,no, northwest , $5327.40025,1EUCV9GD,Needs follow-up
+41,  female  ,21.755,1,no, northeast , $13725.47184,E81WYHBY,Check payment history
+58,  female  ,32.395,1,no, northeast ,13019.16105,7IABVAI7,
+48,  female  ,36.575,0,no, northwest ,8671.19125,BUPR5KYY,Smoking habits unclear
+31,  female  ,21.755,0,NO, northwest ,4134.08245,JP1NUJQZ,Family history of diabetes
+19,  female  ,27.93,3,no, northwest , $18838.70366,JQ3QMSOI,Needs follow-up
+19,  female  ,30.02,0,yes, northwest ,33307.5508,EX4QCNE5,Check payment history
+41,  male  ,33.55,0,no, southeast , $5699.8375,A8EDWEGV,
+40,  male  ,29.355,1,no, northwest , $6393.60345,IXT0QCT4,Smoking habits unclear
+31,  female  ,25.8,2,no, southwest , $4934.705,KKZ4TENM,Family history of diabetes
+37,  male  ,24.32,2,no, northwest , $6198.7518,7LLPQ4J8,Needs follow-up
+46,  male  ,40.375,2,no, northwest ,8733.22925,91S84Y33,Check payment history
+22,  male  ,32.11,0,NO, northwest , $2055.3249,HR3REVGR,
+51,  male  ,32.3,1,no, northeast , $9964.06,04VQWA2A,Smoking habits unclear
+18,  female  ,27.28,3,YES, southeast , $18223.4512,3T9D35EB,Family history of diabetes
+35,  male  ,17.86,1,no, northwest , $5116.5004,MMJWXU4C,Needs follow-up
+59,  female  ,34.8,2,NO, southwest ,36910.60803,DBMYLCJN,Check payment history
+36,  male  ,33.4,2,yes, southwest , $38415.474,8V330VMG,
+37,  female  ,25.555,1,YES, northeast ,20296.86345,VMY7Z6CJ,Smoking habits unclear
+59,  male  ,37.1,1,no, southwest ,12347.172,K8FN24UN,Family history of diabetes
+36,  male  ,30.875,1,NO, northwest , $5373.36425,I9ENPVQI,Needs follow-up
+39,  male  ,34.1,2,NO, southeast , $23563.01618,XGWPBX8H,Check payment history
+18,  male  ,21.47,0,no, northeast ,1702.4553,W69WLKHG,
+52,  female  ,33.3,2,no, southwest ,10806.839,ALEAFDRB,Smoking habits unclear
+27,  female  ,31.255,1,NO, northwest ,3956.07145,NPEVGIGT,Family history of diabetes
+18,  male  ,39.14,0,no, northeast ,12890.05765,Y8DZE52R,Needs follow-up
+40,  male  ,25.08,0,NO, southeast , $5415.6612,42ONW9NM,Check payment history
+29,  male  ,37.29,2,NO, southeast ,4058.1161,WWU4104E,
+46,  female  ,34.6,1,yes, southwest ,41661.602,GPRIQC6V,Smoking habits unclear
+38,  female  ,30.21,3,no, northwest , $7537.1639,5XIU6QJ5,Family history of diabetes
+30,  female  ,21.945,1,NO, northeast ,4718.20355,LI95K42K,Needs follow-up
+40,  male  ,24.97,2,no, southeast ,6593.5083,57218N6R,Check payment history
+50,  male  ,25.3,0,no, southeast ,8442.667,DWVESXAH,
+20,  female  ,24.42,0,yes, southeast ,26125.67477,HRLCZZL4,Smoking habits unclear
+41,  male  ,23.94,1,no, northeast ,6858.4796,LVJPLTMV,Family history of diabetes
+33,  female  ,39.82,1,NO, southeast ,4795.6568,LTN66749,Needs follow-up
+38,  male  ,16.815,2,NO, northeast ,6640.54485,BD4TRBIT,Check payment history
+42,  male  ,37.18,2,no, southeast , $7162.0122,W39CL2MS,
+56,  male  ,34.43,0,NO, southeast ,10594.2257,E2UJVGZS,Smoking habits unclear
+58,  male  ,30.305,0,no, northeast ,11938.25595,6Z992JSO,Family history of diabetes
+52,  male  ,34.485,3,YES, northwest ,60021.39897,CSQ4675W,Needs follow-up
+20,  female  ,21.8,0,yes, southwest , $20167.33603,4FMTTSV2,Check payment history
+54,  female  ,24.605,3,no, northwest ,12479.70895,ADVAFSYQ,
+58,  male  ,23.3,0,no, southwest ,11345.519,GTYUS9PT,Smoking habits unclear
+45,  female  ,27.83,2,NO, southeast , $8515.7587,IPAVLMGI,Family history of diabetes
+26,  male  ,31.065,0,no, northwest , $2699.56835,T19GRZEQ,Needs follow-up
+63,  female  ,21.66,0,no, northeast ,14449.8544,ZL1A16U4,Check payment history
+58,  female  ,28.215,0,NO, northwest , $12224.35085,OI0XBSKR,
+37,  male  ,22.705,3,NO, northeast , $6985.50695,91U0DGLR,Smoking habits unclear
+25,  female  ,42.13,1,NO, southeast ,3238.4357,HEA2N3PV,Family history of diabetes
+52,  male  ,41.8,2,YES, southeast ,47269.854,LVN36VBI,Needs follow-up
+64,  male  ,36.96,2,YES, southeast ,49577.6624,GPQWEAPU,Check payment history
+22,  female  ,21.28,3,NO, northwest , $4296.2712,75VOA9O2,
+28,  female  ,33.11,0,NO, southeast ,3171.6149,GM55Y4TF,Smoking habits unclear
+18,  male  ,33.33,0,no, southeast , $1135.9407,M7R1HPI6,Family history of diabetes
+28,  male  ,24.3,5,NO, southwest ,5615.369,MQP6BXNI,Needs follow-up
+45,  female  ,25.7,3,NO, southwest ,9101.798,XBNDYNFE,Check payment history
+33,  male  ,29.4,4,no, southwest ,6059.173,J41XA6GH,
+18,  female  ,39.82,0,NO, southeast , $1633.9618,Y2PUCLSR,Smoking habits unclear
+32,  male  ,33.63,1,yes, northeast ,37607.5277,0YGEUUS3,Family history of diabetes
+24,  male  ,29.83,0,yes, northeast ,18648.4217,V4K9QVHF,Needs follow-up
+19,  male  ,19.8,0,no, southwest ,1241.565,FTW16UP2,Check payment history
+20,  male  ,27.3,0,yes, southwest ,16232.847,X2YCZXTX,
+40,  female  ,29.3,4,no, southwest , $15828.82173,J3XSTQE2,Smoking habits unclear
+34,  female  ,27.72,0,no, southeast , $4415.1588,EVX38DYF,Family history of diabetes
+42,  female  ,37.9,0,no, southwest , $6474.013,A5RJVY58,Needs follow-up
+51,  female  ,36.385,3,no, northwest ,11436.73815,KTFU4P5V,Check payment history
+54,  female  ,27.645,1,no, northwest , $11305.93455,HZI1850I,
+55,  male  ,37.715,3,NO, northwest ,30063.58055,KAJAC806,Smoking habits unclear
+52,  female  ,23.18,0,no, northeast ,10197.7722,8HPTFSZY,Family history of diabetes
+32,  female  ,20.52,0,NO, northeast , $4544.2348,GVAA9CNU,Needs follow-up
+28,  male  ,37.1,1,no, southwest , $3277.161,E1FPF13X,Check payment history
+41,  female  ,28.05,1,no, southeast ,6770.1925,NK879AM6,
+43,  female  ,29.9,1,no, southwest , $7337.748,ZD5SW5HK,Smoking habits unclear
+49,  female  ,33.345,2,no, northeast , $10370.91255,UE0B5XIO,Family history of diabetes
+64,  male  ,23.76,0,yes, southeast ,26926.5144,MJTP0LOD,Needs follow-up
+55,  female  ,30.5,0,no, southwest ,10704.47,X96A6JW0,Check payment history
+24,  male  ,31.065,0,yes, northeast ,34254.05335,336ENZH1,
+20,  female  ,33.3,0,no, southwest , $1880.487,8S7ZSTAX,Smoking habits unclear
+45,  male  ,27.5,3,NO, southwest , $8615.3,T8OTOHR0,Family history of diabetes
+26,  male  ,33.915,1,no, northwest ,3292.52985,V55G258V,Needs follow-up
+25,  female  ,34.485,0,NO, northwest ,3021.80915,Z0T6UFL9,Check payment history
+43,  male  ,25.52,5,no, southeast , $14478.33015,MDWCFKI7,
+35,  male  ,27.61,1,no, southeast , $4747.0529,CMLB7XJX,Smoking habits unclear
+26,  male  ,27.06,0,yes, southeast , $17043.3414,PCFVB6BU,Family history of diabetes
+57,  male  ,23.7,0,NO, southwest , $10959.33,YVWS7YET,Needs follow-up
+22,  female  ,30.4,0,NO, northeast ,2741.948,6OTGN1RH,Check payment history
+32,  female  ,29.735,0,NO, northwest , $4357.04365,903HH2H1,
+39,  male  ,29.925,1,yes, northeast ,22462.04375,W177XEBK,Smoking habits unclear
+25,  female  ,26.79,2,NO, northwest ,4189.1131,8QW78M2Y,Family history of diabetes
+48,  female  ,33.33,0,no, southeast ,8283.6807,XTV80S18,Needs follow-up
+47,  female  ,27.645,2,yes, northwest , $24535.69855,YLWN2NRP,Check payment history
+18,  female  ,21.66,0,yes, northeast ,14283.4594,XJBP8FF9,
+18,  male  ,30.03,1,no, southeast , $1720.3537,KU4L0EYA,Smoking habits unclear
+61,  male  ,36.3,1,yes, southwest , $47403.88,31RW2CFK,Family history of diabetes
+47,  female  ,24.32,0,NO, northeast , $8534.6718,HWA3XPS9,Needs follow-up
+28,  female  ,17.29,0,NO, northeast ,3732.6251,KY5IKKL1,Check payment history
+36,  female  ,25.9,1,NO, southwest , $5472.449,CPPUNNFO,
+20,  male  ,39.4,2,YES, southwest , $38344.566,LY8YT3XE,Smoking habits unclear
+44,  male  ,34.32,1,NO, southeast , $7147.4728,IJAD8P3U,Family history of diabetes
+38,  female  ,19.95,2,no, northeast ,7133.9025,Q6NRK8K2,Needs follow-up
+19,  male  ,34.9,0,yes, southwest ,34828.654,2SA7MBCV,Check payment history
+21,  male  ,23.21,0,no, southeast , $1515.3449,P240K932,
+46,  male  ,25.745,3,no, northwest ,9301.89355,ZHWP82PH,Smoking habits unclear
+58,  male  ,25.175,0,NO, northeast ,11931.12525,G1RA6JFY,Family history of diabetes
+20,  male  ,22.0,1,NO, southwest ,1964.78,KS6GWT7O,Needs follow-up
+18,  male  ,26.125,0,NO, northeast ,1708.92575,1C7NTGDK,Check payment history
+28,  female  ,26.51,2,no, southeast , $4340.4409,YFZ71ZM1,
+33,  male  ,27.455,2,NO, northwest , $5261.46945,45WV4H41,Smoking habits unclear
+19,  female  ,25.745,1,NO, northwest , $2710.82855,DKJZKICZ,Family history of diabetes
+45,  male  ,30.36,0,yes, southeast ,62592.87309,YZIH3OC8,Needs follow-up
+62,  male  ,30.875,3,yes, northwest , $46718.16325,NVD4R6V3,Check payment history
+25,  female  ,20.8,1,NO, southwest ,3208.787,3OOQ9NT9,
+43,  male  ,27.8,0,YES, southwest ,37829.7242,NG2ESYPV,Smoking habits unclear
+42,  male  ,24.605,2,yes, northeast , $21259.37795,OCWVLZQ4,Family history of diabetes
+24,  female  ,27.72,0,NO, southeast ,2464.6188,V7K0M7L7,Needs follow-up
+29,  female  ,21.85,0,YES, northeast ,16115.3045,FL82KVOJ,Check payment history
+32,  male  ,28.12,4,yes, northwest ,21472.4788,RUZP2CI9,
+25,  female  ,30.2,0,yes, southwest ,33900.653,IOKVPA5H,Smoking habits unclear
+41,  male  ,32.2,2,no, southwest ,6875.961,RE6LKX6I,Family history of diabetes
+42,  male  ,26.315,1,NO, northwest ,6940.90985,MS6WL6NC,Needs follow-up
+33,  female  ,26.695,0,no, northwest ,4571.41305,DB4EWRBP,Check payment history
+34,  male  ,42.9,1,no, southwest ,4536.259,72OQBE07,
+19,  female  ,34.7,2,YES, southwest ,36397.576,AWRPKDKR,Smoking habits unclear
+30,  female  ,23.655,3,YES, northwest , $18765.87545,WLTGHHJX,Family history of diabetes
+18,  male  ,28.31,1,NO, northeast ,11272.33139,8G5XDM1H,Needs follow-up
+19,  female  ,20.6,0,NO, southwest ,1731.677,RJFI7Q1F,Check payment history
+18,  male  ,53.13,0,no, southeast , $1163.4627,F9CSJ6CF,
+35,  male  ,39.71,4,NO, northeast , $19496.71917,55LW25F0,Smoking habits unclear
+39,  female  ,26.315,2,NO, northwest ,7201.70085,6QNHMZXD,Family history of diabetes
+31,  male  ,31.065,3,NO, northwest ,5425.02335,E97MK4M7,Needs follow-up
+62,  male  ,26.695,0,YES, northeast , $28101.33305,ROEJDKDD,Check payment history
+62,  male  ,38.83,0,no, southeast , $12981.3457,H32J68UR,
+42,  female  ,40.37,2,yes, southeast ,43896.3763,X25TQ40N,Smoking habits unclear
+31,  male  ,25.935,1,no, northwest , $4239.89265,2TMGDTY3,Family history of diabetes
+61,  male  ,33.535,0,no, northeast , $13143.33665,ZBXB2W0Y,Needs follow-up
+42,  female  ,32.87,0,NO, northeast , $7050.0213,SXFBPA9T,Check payment history
+51,  male  ,30.03,1,no, southeast ,9377.9047,WWWHRKBX,
+23,  female  ,24.225,2,no, northeast , $22395.74424,MSKPUQU3,Smoking habits unclear
+52,  male  ,38.6,2,NO, southwest ,10325.206,0538C95T,Family history of diabetes
+57,  female  ,25.74,2,NO, southeast , $12629.1656,KHJN8KR4,Needs follow-up
+23,  female  ,33.4,0,NO, southwest , $10795.93733,HBR7FGRU,Check payment history
+52,  female  ,44.7,3,NO, southwest ,11411.685,O3DLIJXN,
+50,  male  ,30.97,3,no, northwest , $10600.5483,U28WDKK1,Smoking habits unclear
+18,  female  ,31.92,0,no, northeast ,2205.9808,CZ3ZX3C6,Family history of diabetes
+18,  female  ,36.85,0,no, southeast ,1629.8335,Q1SV2BIW,Needs follow-up
+21,  female  ,25.8,0,NO, southwest ,2007.945,NGSJOWWR,Check payment history
+61,  female  ,29.07,0,YES, northwest ,29141.3603,IDJWI803,
+19,  female  ,27.9,0,YES, southwest , $16884.924,OXVEXZRG,Needs follow-up
+18,  male  ,33.77,1,NO, southeast , $1725.5523,SV404VGH,Check payment history
